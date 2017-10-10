@@ -20,68 +20,32 @@
 1959 05 XX B.mp3
 1959-12-31_041_Thursday_Show.mp3
 195905XXB.mp3
-1959_08_xx_Thoughts.mp3
-1960 03 26 1st Sat Show Last 65 min.mp3
-1960 04 09 Coney Island.mp3
-1960 04 16 Locked Out.mp3
-1960 07 04.mp3
-1960 07 10.mp3
-1960 07 23.mp3
-1960 07 30.mp3
-1960 09 03.mp3
-1960 09 04 A.mp3
-1960 09 04 B.mp3
-1960 09 10.mp3
-1960 09 11.mp3
-1960 09 18.mp3
-1960_04_16_1_Locked_Out.mp3
-1960_04_16_2_Molded_Food.mp3
-1960_06_04_Night_People.mp3
-1960_06_11_2.mp3
-1960_06_18.mp3
-1960_06_25_Racing.mp3
-
-1960_Chewing_Tobacco.mp3
-1960_JG_the_Ape.mp3
-1961 02 22 Telling the Truth.mp3
 
 1961 Early Spring.mp3
 
-1961_Car_crash_excerpt.mp3
+
 1961_Early_Spring.mp3
-1961_Fragments.mp3
 
-1963-10-10_097_Life_as_a_Short_Story.mp3
-
-1963 Mice.mp3
 
 1963 Shep Sings.mp3
 1963 Truth.mp3
 
 1963-07-04_130_Leigh_Brown_and_Shep_on_Long_John_Nebel.mp3
 
-1963_04_xx_Baseball_Fans.mp3
+
 1963_04_xx_Cause__Effect.mp3
-1963_04_xx_Compassion__Cantalopes.mp3
-1963_04_xx_Stag_Films_Pool.mp3
+
+
 1963_04_xx_excerpt_1_bad_hum.mp3
-1963_05_02_Bunny_Or_Rabbit.mp3
-1963_07_01_Moving_Music.mp3
+
+
 1963_07_02_Night_Games.mp3
 1964 01 XX Farkus.mp3
 1964 01 XX Sheps Name.mp3
-1964 02 05 Shooting Planes excerpt.mp3
-1964 02 xx Role Reversal.mp3
-1964 08 18 Monster Mothers.mp3
-1964 09 15 Worlds Fair excerpt.mp3
-1964 10 16 Seeds.mp3
-1964 12 15 excerpt.mp3
+
+
 1964 Tattoo syndicated show.mp3
-1964 spring Casey At The Bat.mp3
-1964-01-14_030_Two_Halves_Of_Man.mp3
-1964-01-16_030_Indiana_Blizzard.mp3
-1964-02-14_041_Valentines_Party.mp3
-1964_01_16_Great_Indiana_Blizzard.mp3
+
 1964_01_XX_Sheps_Name.mp3
 1964-01-10_041_Kids_Worshipped_as_Gods.mp3
 
@@ -125,109 +89,22 @@
 1965 04 06 Tourists.mp3
 1965 04 12 Tornado Hits The Mill.mp3
 1965 04 13 Fred Allen.mp3
-1965 04 19 Rise of the Neanderthal.mp3
-1965 04 24 Caves, Date, Co K Eggs.mp3
-1965 04 24 Pursuit of Sin.mp3
-1965 04 xx Camp & Pop Art.mp3
-1965 05 08 Australia 2nd Hr.mp3
-1965 05 08 Phonebooth Marie 1st Hr.mp3
-1965 06 05 High School Grad 1st Hr.mp3
-1965 07 28 Festivals.mp3
-1965 08 09 Show Business In The Civil Rights Movement.mp3
-1965 09 21 Trend Of Disbelief.mp3
-1965 10 05 Soothing Sounds For Baby.mp3
+
+
 1965 Man As Machine.mp3
 1965 syndicated show #3.mp3
-1965-05-13_030_Australia_4-Sydney.mp3
-1965-05-14_030_Australia_5-More_Australia.mp3
-1965-05-17_500_Australia_6-ANZAC_Day.mp3
-1965-10-04_030_Shep_talks_about_car_dealership.mp3
-1965_01_16.mp3
-1965_02_08_Protective_Coloration.mp3
-1965_02_26_Roscoe_and_the_Diner.mp3
-1965_03_24_Generator_Hunt.mp3
-1965_04_01_Great_Hamburger_Blowout.mp3
-1965_04_03_Generator_Hunt.mp3
-1965_04_13_Code_School.mp3
-1965_04_13_Fred_Allen.mp3
-1965_04_24_Caves_Date_Co_K_Eggs.mp3
-1965_05_08_030_LL - Australia_1-Phonebooth_Marie.MP3
-1965_05_08_Australia_2nd_Hr.mp3
-1965_05_11_Thailand.mp3
-1965_05_12_Manly_Australia.mp3
-1965_05_18.mp3
-1965_06_05_Jeanette_Dombrowski_2nd_Hr.mp3
-1965_06_09.mp3
-1965_06_11.mp3
-1965_06_26_1_Tobacco.mp3
-1965_07_05.mp3
-1965_07_09.mp3
-1965_07_10_Live_Wires_limelight_1.mp3
-1965_07_12.mp3
-1965_07_13.mp3
-1965_07_31_LL_Hr1_-_Trivia_Fleishmans_Yeast.mp3
-1965_08_01_Village_Rally.mp3
-1965_08_07_2_Army_Casual.mp3
-1965_08_11.mp3
-1965_08_17.mp3
-1965_08_25.mp3
-1965_08_28_How_Shep_Enlisted_2nd_Hr.mp3
-1965_09_04_2_Tips_and_Tolls.mp3
-1965_09_18_2_Headhunters.mp3
-1965_09_25_LL_Hr2_-_Ted_Malley_Snakes_Og_and_Charlie_Grease_Trap.mp3
-1965_09_30.mp3
-1965_10_23_2_Real_Army.mp3
-1965_11_08_Magic_Twig.mp3
-1965_12_04.mp3
-1965_12_16.mp3
-1965_12_30_Bushel_of_Apples.mp3
-1965_Bath_Mat.mp3
-1965_Magic_of_Radio.mp3
+
+
 1965_Man_As_Machine.mp3
-1965_New_House_Medicine_Cabinet.mp3
+
 1965_syndicated_show_No_3.mp3
-1966 01 18 Swamp Ice.mp3
-1966 01 24 Beadle Fund.mp3
-1966 02 11.mp3
-1966 02 12 Part 1.mp3
-1966 02 12 Part 2.mp3
-1966 03 10 Modern Dirt.mp3
-1966 04 06 Flicks Tongue.mp3
-1966 05 09.mp3
-1966 06 11  Camel and the Coat.mp3
-1966 07 16 Haircut Flies Dogfish.mp3
-1966 07 20 Calender Art.mp3
+
+
 1966 08 12 Lenny Bruce Memorial.mp3
-1966 09 08 Seperation Center.mp3
-1966 Age of Total Showbiz.mp3
+
 1966 Big Brother Is Watching You.mp3
-1966 Paris Adventure.mp3
-1966 Straws In The Wind.mp3
-1966 summer Bum Poetry and Frogs.mp3
-1966 summer Cockroaches.mp3
-
-1966_08_06_1_Bolis_Wedding.mp3
-
-1966_11_28_George_Ade_Stories.mp3
-
-
-1967 10 07_054_LL_Concrete_Mexicans_Shep_the_Colonel_and_Sweetheart_Pillows.mp3
-1967 10 14_054_LL_Judgment_Day_Book_Report_for_Miss_Bryfogel.mp3
-1967 11 04_054_LL_Jobs_2nd_Lieutenant_Shepherd.mp3
-1967 11 18_054_LL_Army_Movies_Chow_in_the_Mess_Hall.mp3
-
-
-1967_09_16_LL_Full.mp3
-1967_10_21_Duckworth_and_Marching_Band.mp3
-
-1967_11_25_Thanksgiving__-_Pass_to_USO.mp3
-1967_12_07_Fairleigh_Dickenson.mp3
-1967_12_09_Sunrise_Semester_The_NY_Woman.mp3
-
-1967_Foul_Fowls_end_clipped.mp3
 
 1967_or_1968_Troop_Train_Ernie.mp3
-
 
 1968-01-29_022_Drunk_Test-People_in_the_News.mp3
 1968-02-01_022_Spy_Stories.mp3
@@ -393,17 +270,9 @@
 1972_01_xx_Long_John_Nebel_1.mp3
 1972_01_xx_Long_John_Nebel_2.mp3
 1972_01_xx_Long_John_Nebel_3.mp3
-1972_02_10_Diners_and_Excelsior_restored.mp3
-
-
-1972_02_xx_Lurking_Suckers.mp3
-
-
-1972_03_xx_Theory_Of_Evil.mp3
-
 
 1972_04_xx_Lost_Ticket.mp3
-1972_04_xx_Memory.mp3
+
 
 1972_06_19_Hamsters_and_Horses.mp3
 
@@ -419,18 +288,17 @@
 
 1973_02_15_Casper_Citron.mp3
 
-
 1973_02_xx_Silent_Film_Piano.mp3
 
 1973_04_xx_Charlie_Chan.mp3
-1973_04_xx_Curmudgeon.mp3
-1973_04_xx_Sense_Of_Irony.mp3
+
+
 1973_06_16_Shep_vs_Machine.mp3
 1973_07_14_Sox_vs_Tigers.mp3
 1973_08_xx_Golf_Caddy.mp3
-1973_08_xx_Slob_Sports.mp3
+
 1973_09_xx_Sports_Riots.mp3
-1973_10_22_Navy_Penn_Game.mp3
+
 1973_10_xx_Student_Demonstration.mp3
 1973_11_03_John_B_Tucker.mp3
 1973_12_09_Pledge_Drive.mp3
@@ -440,23 +308,13 @@
 1976_11_xx_Victim_Of_Surrealism.mp3
 1976_12_xx_Army_Joke_edit.mp3
 1976_Ages_Of_Man.mp3
-1976_Al_Capone_and_Chicago_Gangs.mp3
-1976_Army_NYC_It.mp3
 
-
-1976_Beer_Quiz.mp3
 1976_Bolis.mp3
 
 1976_C_and_W_Prediction.mp3
 
 1976_Car_Pool.mp3
 1976_Comic_Strip_Stamps.mp3
-
-1976_Fads.mp3
-1976_Film_And_Fashion.mp3
-
-1976_Four_Day_Pass.mp3
-
 
 1976_Jesus_Saves_-_Nightlife_of_the_Gods.mp3
 
@@ -465,41 +323,32 @@
 1976_Nehi_Part_2.mp3
 1976_Nehi_Part_3.mp3
 
-1976_School.mp3
+
 1976_Self_Help_and_the_American_Dream.mp3
 
 
-1976_The_Bugatti.mp3
-1976_Tommy_Moore.mp3
 1976_Tomorrow_Tom_Synder.mp3
-1976_Upper_Midwest.mp3
-1976_Useless_Crud.mp3
 
 1976_Work_and_Time.mp3
 
-1976_Zoo_Opera.mp3
-1976_or_1977_1897_Sears_Catalog.mp3
-1976_or_1977_Army_Phrasiology.mp3
+1977_Department_Store_clipped.mp3
+1976_Department_Store.mp3
 
 
 1976_or_1977_Creepy_Stories.mp3
 
 1977-05-08_156_Shep_at_Drew.mp3
-1977_01_xx_Old_Electrical_edit.mp3
+
 1977_02_xx_Ruth_Auction_edit.mp3
-1977_02_xx_Turning_Point_edit.mp3
-1977_02_xx_Watergate_carpet_edit.mp3
+
+
 1977_03_xx_Junk_Mail_edit.mp3
 1977_Army_Lt_Culligan.mp3
 1977_Basement_clipped.mp3
 
-1977_Department_Store_clipped.mp3
-1977_Dracula_Black_Forest.mp3
-1977_Flim_Flam.mp3
 
-1977_Showbiz_Traumas.mp3
 1977_The_Last_Laugh.mp3
-1977_Time_Capsule.mp3
+
 1977_True_Fears.mp3
 1980_053_Hamvention.mp3
 1982 03 09 Larry King 1.mp3
