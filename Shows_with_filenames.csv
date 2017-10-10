@@ -1,10 +1,10 @@
-Database ID,Date,Title,Filename,Filename_2,,Sub Title,FirstLine,Category,Sub-Category,Sub-Sub_Category,Engineers,Station ID,Summary Description,Comments,Dating Notes
+Database ID,Date,Title,Filename,Filename_2,Filename_3,Sub Title,FirstLine,Category,Sub-Category,Sub-Sub_Category,Engineers,Station ID,Summary Description,Comments,Dating Notes
 1952mmddK,1952,1952 Jean Shepherd KYW Phila.,,,,,,Radio,KYW Show,,Tom,Speaking of the haunted,,,
-19530123K,"January 23, 1953",1953 Jean Shepherd KYW Phila.,1953-01-23_030 Radio KYW.mp3,,,,,Radio,KYW Show,,Tom,Speaking of the haunted,,,
+19530123K,"January 23, 1953",1953 Jean Shepherd KYW Phila.,1953-01-23_030 Radio KYW.mp3,19530123Radio.mp3,,,,Radio,KYW Show,,Tom,Speaking of the haunted,,,
 19530124K,"January 24, 1953",1953 Jean Shepherd KYW Phila.,1953-01-24_030 KYW.mp3,,,,,Radio,KYW Show,,,,This was the last broadcast on KYW in Philadelphia. He returned to Cincinnati to work briefly at WLW on the radio and doing a TV show called Bumpers,"Mentions that he started broadcasting on KYW April 4, 1951 and he is heading for WLW in Cincinnati.",
 19560909W,"September 9, 1956",No Time for Heros,1956-09-09_500_No_Time_For_Heros.mp3,,,,,Radio,WOR Show,,,,,,
-19570602W3047,"June 2, 1957",I Want a Scroll,,,,,,Radio,WOR Show,,,,,,Possibly 6/2?
-19570616W0047,"June 16, 1957",Early Shep; Granite Knee,1957-06-16_010_Granite_Knee.mp3,1957-06-16_030_Early_Shep.mp3,,,,Radio,WOR Show,,,,"""Excelsior""
+19570602W3047,"June 2, 1957",I Want a Scroll,1957-xx-xx_010_I_want_a_scroll.mp3,,,,,Radio,WOR Show,,,,,,Possibly 6/2?
+19570616W0047,"June 16, 1957",Early Shep; Granite Knee,1957-06-16_010_Granite_Knee.mp3,1957-06-16_030_Early_Shep.mp3,1957 06 16.mp3,,,Radio,WOR Show,,,,"""Excelsior""
 Keep your eye on the subject.
 Let's all honor knees.
 I'm here and you're there.
@@ -15,7 +15,8 @@ The Status Symbol of Ice","This is the first hour from an episode of the 9:05pm 
 195706ddW3040,June 1957,Being On The Tonight Show,,,,,,Radio,WOR Show,,,,"Shep talks a call from listener.
 Next Thursday - 15 minutes on Tonight Show
 Jean Shepherd - ""He died sustaining""",,
-1957mmddW0051,1957,Hurling Invectives,,,,,,Radio,WOR Show,,,,,,
+***************,,,1957-07-13_106_R21_Bandstand_USA-Shep_guest-live-news.mp3,,,,,,,,,,,,
+1957mmddW0051,1957,Hurling Invectives,1957_Hurling_Invective_excerpt.mp3,,,,,Radio,WOR Show,,,,,,
 1957mmddW3041,1957,Armenian Wedding,,,,,,Radio,WOR Show,,,,,,
 1957mmddW3042,1957,Audition For Nedicks,,,,,,Radio,WOR Show,,,,". . . and he said, what is it - - - Shepherd? What's the matter?  Aren't you an artist? And naturally I bridled at that. Not only an artist but a gentleman and an old Nedicks customer from way back - they kept me alive through one of the darkest years of my whole career - and he said ""Well come on, let's hear it."" And so all these assembled vice presidents are standing around, he says ""come on, I want you to sing it. Now sing it out Shepherd."" And so the guy hit the ""A"" on the piano there and I went ""Nedicks, Schmidics, double beaticks, popkins all agree. . .the pinch - (chuckle)"" And - and - and all these guys were sitting and looking at me and they take this seriously - they're all sitting there with their iron hats on and one guy nudges the other guy and says ""Are we spending dough for this?"" And the other guy says ""No they're doing it free."" And I says - ""NO, OH NO - I getting dough for this."" I'm not going to let, you know  (? Not distinguisable) begin to sneak in on me. He says, ""You mean you're paying this guy for this - he can't even sing."" And so they hit another ""A"" and I tried it again ""Nedicks, Schmidics, double beaticks, pipkins all - aw gee (chuckle) what you have to do to sell hot dogs these days!""",,
 1957mmddW3043,1957,Cancelled Streetcar Transfers,,,,,,Radio,WOR Show,,,,,,
@@ -172,9 +173,9 @@ Worth perfume commercial - 'Big problem in the perfume industry is people can't 
 1958mmddW07,1958,Show Music,,,,,,Radio,WOR Show,,,,,,
 1958mmddW08,1958,S.J. Perelman,,,,,,Radio,WOR Show,,,,,,
 1958mmddW09,1958,Man Without An Outlook,,,,,,Radio,WOR Show,,,,None,,
-1958mmddW10,1958,Peopletropic,,,,,,Radio,WOR Show,,,,,,
+1958mmddW10,1958,Peopletropic,1958Peopletropicfragment.mp3,,,,,Radio,WOR Show,,,,,,
 19590426W,"April 26, 1959",Monster Feet and Style,,,,,,Radio,WOR Show,,,,"This 3 minute clip was played by Shep on his June 21, 1968 show",,
-19590502W,"May 2, 1959",Crawling Toward the Golden Light,1959-05-02_030_Crawling_Toward_Golden_Light.mp3,,,,,Radio,WOR Show,,,,"Mankind inching himself forward towards that great golden glow on the horizon - has shed that last pair of vestigial gill covers, and has advanced from the cave, and is starting to crawl toward the light!
+19590502W,"May 2, 1959",Crawling Toward the Golden Light,1959-05-02_030_Crawling_Toward_Golden_Light.mp3,1959 05 02.mp3,,,,Radio,WOR Show,,,,"Mankind inching himself forward towards that great golden glow on the horizon - has shed that last pair of vestigial gill covers, and has advanced from the cave, and is starting to crawl toward the light!
 
 National League player Myril Hoag noted to have one foot size 6 and one-half and the other size four and one-half!
 
@@ -197,6 +198,7 @@ Celebration of the ""Equal Verninox"" noted","Early example of the 45 minute for
 The ""Tight Underwear story was told on his 5-9-66 show and again during the 8-26-67 Limelight show.
 
 During the Music Age Record Shop commercial Shep says that he made a record in 1955 called ""Into the Unknown"". Shep further went on to say that the record is out of print and that it is hard to find, he says that he did not have a copy himself!",
+***************,,,1959 05 XX A.mp3,1959 05 XX B.mp3,195905XXB.mp3,,,,,,,,,,
 195908ddW,August 1959,Thoughts,1959_08_xx_Thoughts.mp3,,,,,Radio,WOR Show,,,,,,
 19591122W,"November 22, 1959",Dream Recycle - Blow Guns - Clouds,1959-11-22_010_Dream_Recycle-Blow_Guns-Clouds.mp3,,,,,Radio,WOR Show,,,,,,
 19591227W,"December 27, 1959",Last Sunday Show of the Year,1959-12-27_041_Sunday_Show.mp3,,,,,Radio,WOR Show,,,,"Each man marches to his own drum - Coming new year
@@ -240,6 +242,7 @@ Thursday, December 31, 1959
 11:00 News
 11:15 Studio X - Music
 12:00 Long John",
+***************,,,1959-12-31_041_Thursday_Show.mp3,,,,,,,,,,,,
 19591231W,"December 3, 1959",Thursday Show,,,,,,Radio,WOR Show,,,,,,
 1959mmddW,Possibly July 1959,Clean H Bomb - Gothic NY Architecture,,,,,,Radio,WOR Show,,"Ed, Phil Tonken for station ID",12:30 AM ID by Phil,"Shep is quietly reflective, more serious than usual.  He talks about the folly of a ""clean h-bomb"", the ghosts of the ancient Greek and Gothic civilizations in the architectural details of the old buildings in Manhattan, and the story of a man whose crowning moment was catching a foul ball at a White Sox game.  
 
@@ -1248,7 +1251,7 @@ He refers to Schwartz as Paul. This is a rare occasion that we hear the real fir
 Mentions being on until midnight.",
 19630429W,"April 29, 1963",Where Will You Spend Eternity,,,,,,Radio,WOR Show,,,,,,
 19630430W,"April 30, 1963",Revival Thing,,,,,,Radio,WOR Show,,,,,,
-196304ddWa,April 1963,excerpt - bad hum,,,,,,Radio,WOR Show,,,,,,
+196304ddWa,April 1963,excerpt - bad hum,1963_04_xx_excerpt_1_bad_hum.mp3,,,,,Radio,WOR Show,,,,,,
 196304ddWc,April 1963,Baseball Fans,1963_04_xx_Baseball_Fans.mp3,,,,,Radio,WOR Show,,,,,,
 196304ddWd,April 1963,Compassion + Cantaloupes,1963_04_xx_Compassion__Cantalopes.mp3,,,,,Radio,WOR Show,,,,,,
 196304ddWe,April 1963,Stag Films Pool,1963_04_xx_Stag_Films_Pool.mp3,,,,,Radio,WOR Show,,,,,,
@@ -1350,7 +1353,7 @@ Can people 50 years from now look back and explain how they felt
 19630626W,"June 26, 1963",Date at the Beach,,,,,,Radio,WOR Show,,,,,,
 196306ddW,June  1963,Business Lunches,,,,,,Radio,WOR Show,,,,,,
 19630701W,"July 1, 1963","First Intro to the Classics, Moving Music",1963-07-01_030_Moving_Music-Intro_to_classics.mp3,1963_07_01_Moving_Music.mp3,,,,Radio,WOR Show,,,,,,
-19630702W,"July 2, 1963",Being A Peeping Tom,1963-07-02_500_Being_a_Peeping_Tom.mp3,,,,,Radio,WOR Show,,,,"The opening theme of this show is missing. It starts off with Shep reading a newspaper story, in his trademark bad Asian accent, about waiters in a restaurant somewhere in China beating a customer to death in a dispute over a check. The point is unclear.
+19630702W,"July 2, 1963",Being A Peeping Tom,1963-07-02_500_Being_a_Peeping_Tom.mp3,1963_07_02_Night_Games.mp3,,,,Radio,WOR Show,,,,"The opening theme of this show is missing. It starts off with Shep reading a newspaper story, in his trademark bad Asian accent, about waiters in a restaurant somewhere in China beating a customer to death in a dispute over a check. The point is unclear.
 
 He moves on to a newspaper story about teenage boys in Westfield NJ playing tennis in the dark with infrared glasses and a florescent tennis ball. This leads Shep onto the theme of the show: nocturnal games, particularly of the male teenage variety.
 
@@ -1384,6 +1387,7 @@ Tells about fireworks on the great lakes, fireworks set off on ore boats. Tells 
 
 Final story about OM. Biggest 4th fiasco he ever saw. OM had about $350 of fireworks, at depression prices. Fill up two ton truck twice. Had the fireworks in two huge boxes. Put two boxes near big pinwheel.
 Sparks are going into the boxes. Shep gives his usual vivid description of the ensuing disaster. Only regret anyone had was that the OM set them off all at once. ""It's tough being an American, It is one of the hardest jobs in the world.""","Note: Christopher George Kennedy was born on July 4, 1963 to Ethel and Robert Kennedy.",
+***************,,,1963-07-04_130_Leigh_Brown_and_Shep_on_Long_John_Nebel.mp3,,,,,,,,,,,,
 19630705W,"July 5, 1963",Great Ice Cream War,1963_07_05_Ice_Cream_War.mp3,,,,,Radio,WOR Show,,"Clyde, Ted",This is WOR - which reminds me of the rat problem,"What a great city this is when everyone is gone. Shep asks that everyone stay away, stay where they are because it's so peaceful, he even rode his motorcycle around town.
 ""What is that expression? When the rat's away...""
 Shep begins by talking of summer madness and the gasoline price wars that Jersey had not long ago. This leads to him telling the story of the Great Ice Cream War between ""The Igloo"" and Borden's Dairy back in Hammond during the late 30's.
@@ -1440,7 +1444,7 @@ Shep and Flick learn what not to eat before a track meet!",,
 19630812W,"August 12, 1963",Blue Assed Buzzard Story,,,,,,Radio,WOR Show,,,,,,
 19630813W,"August 13, 1963",A Klotz is a Klotz,1963-08-13_097_A_Klotz_is_a_Klotz.mp3,,,,Do birds know they are birds?   (Theme missing - may not be true 1st line),Radio,WOR Show,,,,Do birds know they are birds?  Do turtles know they are turtles? Do other animals know what they are? Shep examines whether or not we really know who we are.,,
 19630814W,"August 14, 1963",No Blip on the Blimp,,,,,,Radio,WOR Show,,,,,,
-19630815W,"August 15, 1963",Cause and Effect,1963-08-15_097_Cause_and_Effect.mp3,,,,I mean just being alive...   (Theme missing - may not be true 1st line),Radio,WOR Show,,,Speaking of a pigs ear this is WOR AM & FM New York,"Selective deafness, conscience
+19630815W,"August 15, 1963",Cause and Effect,1963-08-15_097_Cause_and_Effect.mp3,1963_04_xx_Cause__Effect.mp3,,,I mean just being alive...   (Theme missing - may not be true 1st line),Radio,WOR Show,,,Speaking of a pigs ear this is WOR AM & FM New York,"Selective deafness, conscience
 
 The mind is a built in tape recorder with an auto eraser
 
@@ -1916,7 +1920,7 @@ More H.G. Grubbage
 
 Buying his first car as a kid for $60. A black 1933 Ford V8 Roadster.
 Regrinding the valves - Mr. Bruner to the rescue, drunk as a skunk. ",,"Same show as May 8, 1971 - rerun or miss date?"
-1963mmddWf,1963,Shep Sings,,,,,,Radio,WOR Show,,,,,,
+1963mmddWf,1963,Shep Sings,1963 Shep Sings.mp3,,,,,Radio,WOR Show,,,,,,
 1963mmddWg,1963,Scammed at Ping Pong,1963 Ping Pong.mp3,,,,,Radio,WOR Show,,,,,,
 1963mmddWh,1963,What People Do At Business Lunches,,,,,,Radio,WOR Show,,,,"The announcer must have introduced the show as the ""Interesting World of Jean Shepherd"" Shep rants over the theme about the interesting world of Jean Shepherd!
 
@@ -1971,7 +1975,7 @@ Huddling under the blankets and everything else in the house to keep warm
 
 Burrowing through the snow to get to school school","A classic ""I was this kid..."" story",Same show as 12-18-1963?
 19640117W,"January 17, 1964",Big Snow Hits NY; Indiana HS Basketball,1964-01-17_030_HS_Basketball.mp3,,,,,Radio,WOR Show,,,,,,
-19640128W,"January 28, 1964",Miss Robinette & Farkas: No Leadership Qualities,1964-01-28_041_Ms_Robinette_and_Farkas-No_Leadership_Qualities.mp3,,,,By George... We're here and it's still working,Radio,WOR Show,,,,"Albert Farkas - Classes strong man and thug.
+19640128W,"January 28, 1964",Miss Robinette & Farkas: No Leadership Qualities,1964-01-28_041_Ms_Robinette_and_Farkas-No_Leadership_Qualities.mp3,1964 01 XX Farkus.mp3,,,By George... We're here and it's still working,Radio,WOR Show,,,,"Albert Farkas - Classes strong man and thug.
 
 Shep beats up Bud Blue the big bully. (Sounds like ACS storyline)
 
@@ -3621,7 +3625,7 @@ George Ade's ""The Fable Of Successful Tobias And Some Of His Happy New Years""
 ""Archie the Cockroach"" by Don Marquis
 ""Keep your knees loose...""",,
 1965mmddL0483,Unknown,"Exotic Bath Mat, Bad Suit / Raiding the Medicine Cabinet, New House",1965_Bath_Mat.mp3,1965_New_House_Medicine_Cabinet.mp3,,,,Radio,Limelight Show,,,,,,
-1965mmddW0486,Unknown,Tatoos,,,,,,Radio,WOR Show,,,,"Sheps opens talking about bodily adornments, such as ties and earrings, and other tribal markings. 
+1965mmddW0486,Unknown,Tatoos,1964 Tattoo syndicated show.mp3,,,,,Radio,WOR Show,,,,"Sheps opens talking about bodily adornments, such as ties and earrings, and other tribal markings. 
 
 Shep then tells the story of how he and Gasser were on a weekend pass in the Army and went to Long Branch, NJ. They spend the evening walking the boardwalk and ultimately find themselves in front of a tattoo parlor. They watch as a sailor has a sinking Lexington tattooed and Gasser asks how much various tattoos cost. They leave, but Gasser decides he wants to go back and gets a pair of Signal Corp flags. At 3 minutes to 11:00 Shep sits down in the chair to get a Mermaid tatooed on his arm with ""Esther Jane Allberry - Eternally Yours"" below it. When the artist says there is not enough time to do it tonight, come back tomorrow, Shep escapes being embarrassingly marked for life.","This was one of many shows that were recorded for syndication sometime in late 1964, early 1965.",
 1965mmddW0487,Unknown,"Going to the Races, Brits Have No Taste",,,,,,Radio,WOR Show,,,,"Shep just recently returned from a 2 week stay in Great Britain where he toured with  the Beatles for an article which later appeared in Playboy. He talks about traveling to all the little places where normal tourists don't go and was able to study Britain from a different perspective. He say that Americans have a sub-conscious hang-up about Great Britain. 
@@ -4527,7 +4531,7 @@ Recitation...(That's My Weakness Now)...JS reading ""The Straight Shooter's Pray
 THEME OUT - 42:40","Recorded 7/12/66
 This show came from a WOR master tape which had Leigh Brown's notes attached",
 19660721W,"July 21, 1966",Uncle Charlie's Birthday Ring - 10th Birthday,,,,,,Radio,WOR Show,,,,,,
-19660722W,"July 22, 1966",Awake Out There! - Big Brother's Cameras,1966_07_22_Big_Brother.mp3,,,,,Radio,WOR Show,,,,"1984 - The book by George Orwell
+19660722W,"July 22, 1966",Awake Out There! - Big Brother's Cameras,1966_07_22_Big_Brother.mp3,1966 Big Brother Is Watching You.mp3,,,,Radio,WOR Show,,,,"1984 - The book by George Orwell
 ""Big Brother is Watching You"" 
 
 ""Now, I've had a thesis for a long time, for what it's worth, that almost anything that comes into being, that is an eventual evil, is always hailed as a new discovery in good."" JS
@@ -4926,7 +4930,7 @@ Og and Charlie sitting scrunched over, belching and grunting. Og looks at Charli
 Shep talks of the people and events that encompass the days around the Indy 500 each year. ""This is the biggest 'county fair' ever."" The types of people who meet each other only once every year at the race. They go early every year and wander around greeting each other and exchanging stories of the past year. They come with the beer, hot dogs, mustard and pinochle cards, waiting for the gates open. They all roar when the race starts, watching the first lap and then settle down to pinochle.",,
 19670527L,"May 27, 1967",MISSING SHOW,,,,,,Radio,Limelight Show,Missing Show,,,None,,
 19670529W,"May 29, 1967",Fiesta Drive and Indy 500,1967 05 29 Indy 500.mp3,,,,,Radio,WOR Show,,,,,,
-19670530W,"May 30, 1967",Memorial Day,1967_05_30_Marching_Band.mp3,1967 05 30 Marching Band.mp3,,,,Radio,WOR Show,,,,"A salute to the 27 trillion suckers who all got out on the road to stand bumper to bumper going nowhere.
+19670530W,"May 30, 1967",Memorial Day,1967_05_30_Marching_Band.mp3,,,,,Radio,WOR Show,,,,"A salute to the 27 trillion suckers who all got out on the road to stand bumper to bumper going nowhere.
 
 Parking meters and piggy banks.
 
@@ -4985,6 +4989,7 @@ Becoming one of the gang at the steel mill - chewing tobacco",,
 19670728W,"July 28, 1967",Jean Shepherd,,,,,,Radio,WOR Show,,,,,,
 19670729L,"July 29, 1967",MISSING SHOW,,,,,,Radio,Limelight Show,Missing Show,,,None,,
 19670731W,"July 31, 1967",Fishing Tackle,01 1967 07 31 Fishing Tackle.mp3,1967_07_31_Fishing_Tackle.mp3,,,,Radio,WOR Show,,,,,,
+***************,,,1967-07-31_022_PBS-The_Three_Worlds_of_Jean_Shepherd.mp3,,,,,,,,,,,,
 19670801W,"August 1, 1967",The Bandini,1967_08_01_The_Bandini.mp3,,,,,Radio,WOR Show,,,,,,
 19670805L,"August 5, 1967",MISSING SHOW,,,,,,Radio,Limelight Show,Missing Show,,,None,,
 19670812L,"August 12, 1967",MISSING SHOW,,,,,,Radio,Limelight Show,Missing Show,,,None,,
@@ -5005,7 +5010,7 @@ They get their pass and go to Asbury park where they begin following these two g
 Shep says he was in the 3162nd Signal Airborne Mess Kit Repair Battalion and he and Gasser were in the Handle platoon.",
 19670831W,"August 31, 1967",Jean Shepherd,,,,,,Radio,WOR Show,,,,,,
 19670901W,"September 1,1967",Bugging Adults,1967_09_01_Bugging_Adults.mp3,,,,,Radio,WOR Show,,,,,,
-19670902L,"September 2, 1967",MISSING SHOW,1967_09_02_Raincoat.mp3,,,,,Radio,Limelight Show,Missing Show,,,None,,
+19670902L,"September 2, 1967",MISSING SHOW,,,,,,Radio,Limelight Show,Missing Show,,,None,,
 19670902W,"September 2,1967",Raincoat,1967_09_02_Raincoat.mp3,,,,,Radio,WOR Show,,,,,"This is not a Limelight Show, so the date is probably wrong.",
 19670907W,"September 7, 1967",Jean Shepherd,,,,,,Radio,WOR Show,,,,,,
 19670909L,"September 9, 1967",MISSING SHOW,,,,,,Radio,Limelight Show,Missing Show,,,None,,
@@ -5547,7 +5552,7 @@ was.
 
 A second incident of an exploding cracking plant is described as occurring when Shep was a kid as they drove in a car over a bridge. ""The widows in the car just caved in, and the Old Man never looked back""","Shep also refers to the excitement of emerging Springtime in the episode of 4-5-73.
 Also, Shep apparently left Indiana University in 1948 to work at WSAI (see Biography).",
-19690320W,"March 20, 1969",Second Annual Parade of  Humanity,,,,"Possibly March 20, 1969",,Radio,WOR Show,,Herb Squire,,Shep spends the entire show reading the names of fans who wrote in. This is the second time he did this and mentions that it was done about this same time last year.,"Shep mentions having just recently doing a show in Madison. This was March 18, 1969.",
+19690320W,"March 20, 1969",Second Annual Parade of  Humanity,1969_Second_Annual_Vast_Marching_Hoard_of_Mankind.mp3,1970_Second_Name_Show.mp3,,"Possibly March 20, 1969",,Radio,WOR Show,,Herb Squire,,Shep spends the entire show reading the names of fans who wrote in. This is the second time he did this and mentions that it was done about this same time last year.,"Shep mentions having just recently doing a show in Madison. This was March 18, 1969.",
 19690321W,"March 21, 1969","Spring Equinox, Salute to Chickens",1969_03_21_Square_Eggs_aka_Spring_Equinox.mp3,,,,,Radio,WOR Show,,,,,Shep says it isFriday and the equinox,
 19690328W,"March 28, 1969","More New Jersey Slob Art, Salute to Margate Elephant Hotel,  Learn Anything  from Books!",1969_03_28_Margate_Elephant-repaired.mp3,1969 Margate Elephant.mp3,,,,Radio,WOR Show,,,"You can always tell the dissolute, which reminds me this is WOR AM & FM New York","Shep opens show with a salute to the Margate Elephant. A classic example of NJ slob art. 
 
@@ -5833,6 +5838,7 @@ The ""French 75"" - World War I drink.",,
 19691120W,"November 20, 1969",Sentimental Poetry,,,,,,Radio,WOR Show,,,,,,
 19691121W,"November 21, 1969",Rising Out of the Meatloaf - Caterpillar in Salad,1969_11_21_Food_Surprises.mp3,,,,,Radio,WOR Show,,,,,,
 19691122W,"November 22, 1969","Automobile Names, WLW Radio",,,,,,Radio,WOR Show,,,,,,
+***************,,,1969_11_23_Army_Liquor.mp3,,,,,,,,,,,,
 19691124W,"November 24, 1969",Johnny Appleseed Tree and Rattlesnake,1969 11 24 Fastest Gun in the West.mp3,,,,,Radio,WOR Show,,,,,,
 19691125W,"November 25, 1969",Trapped in the John,1969_11_25_Trapped_in_the_John.mp3,,,,,Radio,WOR Show,,,,"We rarely take time out to salute the little things which mean so much to us in our daily pursuit of happiness - the potato chip and bread and butter pickles.
 
@@ -5998,7 +6004,7 @@ The Theatre of the Absurd - Federico Fellini Movies
 
 'Corporal Shepherd's Oddysy' - Stationed in Maryland at the University of Maryland, Shep is shipped to Ft Monmouth. He has a date with a girl in Maryland and hitchhikes there.",,"Dating Notes: 
 Shep mentions it is Friday. He reads an article dated 3-9-70 and promotes the 4-3-70 Princeton Show. This makes March 13, 20 or 27 as the only choices. At 35:54 - Shep mentions it being the ""last days of March"". Rule out March 13th. When talking about Princton show he say it is last chance to order by mail. March 20th would have been 2 weeks before show and offered plenty of time. March 27th only 1 week - no more chances."
-19700328W,"March 28, 1970",Overseas Press Club Conference,1969_Second_Annual_Vast_Marching_Hoard_of_Mankind.mp3,,,re-cap,,Radio,WOR Show,,,,"There were two ""Press Club Conferences held.
+19700328W,"March 28, 1970",Overseas Press Club Conference,,,,re-cap,,Radio,WOR Show,,,,"There were two ""Press Club Conferences held.
 
 The first was on March 2, 1970
 Shep mentions that there are 600 people representing 300 schools attending.
@@ -6349,7 +6355,7 @@ Shep spends the remainder of the show playing unedited audio tapes of the sounds
 He describes the sounds of the workers talking and the roar of the Open Hearth furnaces in the background.",,
 1970mmddWc,1970,"Kindergarten and Miss Bundy, Blintzes, Kindergarten Milk",,,,,,Radio,WOR Show,,,,,,
 1970mmddWd,1970,"China and Chairman Mao, Horoscope, Trivia, Oral Report",,,,,,Radio,WOR Show,,,,,,
-1970mmddWe,1970,"Outer Space, Salute to British, Dating Service, Shep's Credit Card",,,,,,Radio,WOR Show,,,,,,
+1970mmddWe,1970,"Outer Space, Salute to British, Dating Service, Shep's Credit Card",1970_Space_Credit_Card.mp3,,,,,Radio,WOR Show,,,,,,
 1970mmddWf,1970 (Fall),The Cuckoo Eye,,,,,,Radio,WOR Show,,,Speaking of arthritis - this is WOR,"Pantyhose shuts down Massey Ferguson Tractor factory
 
 Stamps - the size of the stamp is related to the self esteem and confidence quotia of the country of origin
@@ -6422,6 +6428,7 @@ In the late 40's and 50's people feared getting bad eyesight and cancer from sit
 After spitting chewing tobacco on Shep's locker and cleaning it up, they go to the PX one night for a few 3.2 beers and Sanderson gets into a pushing match with another soldier. The MPs come in and Sanderson gives them a fake name and ID, while Shep gives them his real name. He gets called to the orderly room",,
 19710114W,"January 14, 1971",Lights Out,1971_01_14_Lights_Out.mp3,,,,,Radio,WOR Show,,,,,,
 19710116W,"January 16, 1971",Stories of Big Money Deals,1971_01_16_The_Camel_and_the_Coat.mp3,,,,,Radio,WOR Show,,,,,,
+***************,,,1971_01_17_Presidents.mp3,,,,,,,,,,,,
 19710118W,"January 18, 1971",New Action Army/Fishing in Italian Village,,,,,,Radio,WOR Show,,,,,,
 19710119W,"January 19, 1971",Witch Doctors and Rituals,1971-01-19_022_Witch_Doctors_and_Rituals.mp3,1971_01_19_Witch_Doctors.mp3,,,,Radio,WOR Show,,,,,,
 19710120W,"January 20, 1971","Severe Nausea, Sniffing Glue, and Drinking Boilermakers",1971-01-20_022_Severe_Nausea.mp3,1971_01_20_Severe_Nausea.mp3,,,,Radio,WOR Show,,,,,,
@@ -6488,21 +6495,22 @@ Most committees are used for the personal purposes of several people within the 
 19710327W,"March 27, 1971",Rubbernecks,1971_03_27_Rubbernecks.mp3,,,,,Radio,WOR Show,,,,,,
 19710401W,"April 1, 1971",April Fool Gags,1971-04-01_030_April_Fool_Gags.mp3,,,,,Radio,WOR Show,,,,,,
 19710403W,"April 3, 1971","Canary Funeral, How to Camp",,,,,,Radio,WOR Show,,,,,Shep announces time change to 10:15 on Monday 4/5,
+***************,,,1971-04-08_052_Overseas_Press_Club.mp3,1971_Press_Conference_1.mp3,1971_Press_Conference_2.mp3,,,,,,,,,,
 19710410W,"April 10, 1971",Army Glasses,1971_04_10_Army_Glasses.mp3,,,,,Radio,WOR Show,,,,,,
 19710412W,"April 12, 1971",Amateur TV,1971_Amateur_TV.mp3,,,,,Radio,WOR Show,,,,,"Shep mentions the Overseas Press Club conference as happening ""last week"" and also mentions later that the day was Monday. The Monday following OPC was April 12.","[spiderman] The show listed as ""1971 Amateur TV"" can, I believe, be accurately dated. Shep mentions the Overseas Press Club conference as happening ""last week"" and also mentions later that the day was Monday. The Monday following OPC was April 12."
-19710417W,"April 17, 1971",Trains,1971_04_10_Trains.mp3,,,,,Radio,WOR Show,,,,,,
+19710417W,"April 17, 1971",Trains,1971_04_10_Trains.mp3,1971_12_xx_Trains.mp3,,,,Radio,WOR Show,,,,,,
 19710424W,"April 24, 1971",Stealing,1971_04_24_Stealing.mp3,,,,,Radio,WOR Show,,,,,,
-197104ddW,April 1971,JSA Reviews,,,,,,Radio,WOR Show,,,,,,
-197104ddWa,April 1971,Sea Cow,,,,,,Radio,WOR Show,,,,,,
+197104ddW,April 1971,JSA Reviews,1971_04_xx_JSA_Reviews.mp3,,,,,Radio,WOR Show,,,,,,
+197104ddWa,April 1971,Sea Cow,1971_04_xx_Sea_Cow.mp3,,,,,Radio,WOR Show,,,,,,
 19710501W,"May 1, 1971",Practical Jokes,,,,,,Radio,WOR Show,,,,,,
-19710508W,"May 8, 1971",Summer Madness,1971-05-08_030_Summer_Madness.mp3,,,,The summer madness is beginning to pop out everywhere,Radio,WOR Show,,Marty,,,,"Not the same as 1963 Summer Madness show
+19710508W,"May 8, 1971",Summer Madness,1971-05-08_030_Summer_Madness.mp3,1971 04 Xx Summer Madness.mp3,,,The summer madness is beginning to pop out everywhere,Radio,WOR Show,,Marty,,,,"Not the same as 1963 Summer Madness show
 
 Refers to Mat 15th appearance at Clifton High School, 333 Colfax Ave Clifton. Sponsored by Clifton Youth Council of Creative Images"
 19710522W,"May 22, 1971",Worms,,,,,,Radio,WOR Show,,,,,,
 19710529W,"May 29, 1971",Fishing and Racoons,,,,,,Radio,WOR Show,,,,,,
 19710605W,"June 5, 1971",Shep vs Coke Machine,1971_06_05_Shep_vs_Coke_Machine.mp3,,,,,Radio,WOR Show,,,,,,
 197106ddW,June 1971,"Schools and School Topics, Jack Morton",1971_School_Jack_Morton.mp3,,,,,Radio,WOR Show,,,,,,"[spiderman] ""Schools and School Topics, Jack Morton"" (also from 1971) must be from the week of 28 June-2 July. Shep says that the JSA episode ""Flying"" (week 11 of the series) was aired ""a week ago this past Sunday. Last Sunday was the 'Hawaiian' show."""
-197106ddWa,June 1971,Lurking Disaster,,,,,,Radio,WOR Show,,,,,,
+197106ddWa,June 1971,Lurking Disaster,1971_06_xx_Lurking_Disaster.mp3,,,,,Radio,WOR Show,,,,,,
 197106ddWb,June 1971,"Plagerism, Racing",1971_06_xx_Plagiarism_Racing.mp3,,,,,Radio,WOR Show,,,,,,
 19710709W,"July 9, 1971","Hamsters, Guinea Pigs, Other Animals, Amhearst Police Log",,,,,And I have another letter here...,Radio,WOR Show,,,,,,"This was orig dated June 19, 1972
 
@@ -6518,7 +6526,7 @@ Patrick Murphy was NYPD police comm until 1971"
 [Max] Show length 53 minutes - Staturday"
 197107ddWbp,July 1971,"Cars, Phones, Licenses, IDs",1971_07_xx_No_License.mp3,,,,,Radio,WOR Show,,,,,,"FHC lists this as a July show
 Kalish, who recorded it, lists as 1971"
-197107ddWe,July 1971,Events Calander,,,,,,Radio,WOR Show,,,,,,
+197107ddWe,July 1971,Events Calander,1971_07_xx_Events_Calander.mp3,,,,,Radio,WOR Show,,,,,,
 19710813W,"August 13, 1971",Friday the 13th,,,,,,Radio,WOR Show,,,,,,
 19710831W,"August 31, 1971",Shep's Book + Clubs,1971_08_31_Sheps_Book_and_Clubs.mp3,,,,,Radio,WOR Show,,,,,,
 197108ddW,August 1971,Wanda Hickey - Writing a book,,,,,,Radio,WOR Show,,Herb Squire,,"Shep opens the show thumping on the first copy of ""Wanda Hickey"" which had arrived that afternoon after working on it for three years. He's trying to answer the 1,000s of inquiries he's received.
@@ -6539,7 +6547,7 @@ Herb Squire - engineer
 197108ddWc,August 1971,"Prediction Comes True, Collections, Edsel & Other Commercials",,,,,,Radio,WOR Show,,George,,,,
 197108ddWd,August 1971,Bad Bees - Walking Catfish,,,,,,Radio,WOR Show,,,,,,
 197108ddWe,August 1971,Bad Radiator - Brit Spirit - Lost Dog - Flies,,,,,,Radio,WOR Show,,,,,,
-197108ddWf,August 1971,Spiders - Farkas and Crackerjack,,,,,,Radio,WOR Show,,,,,,
+197108ddWf,August 1971,Spiders - Farkas and Crackerjack,1971_08_xx_Spiders_Cracker_Jack.mp3,,,,,Radio,WOR Show,,,,,,
 19710901W,"September 1, 1971","Take out the Garbage, Trivia, Story of Shep's Childhood",1971_09_01_Take_Out_The_Garbage.mp3,,,,,Radio,WOR Show,,,,,,
 19710907W,"September 7, 1971","Keys, Tollbooth, Cowboy X, Plainfield - Books, Dear John Letter",1971_09_07_Cowboy_X_USO_Book.mp3,,,,,Radio,WOR Show,,,,,,"FHC dates this as 9-7-71
 AK dates it 1971"
@@ -6566,16 +6574,17 @@ Mentions being on K. Berman's ""Perspective"" tomorrow (9/26) morning on WOR FM 
 19710930W,"September 30, 1971",Phantoms and Snakes,1971_09_30_Phantoms_and_Snakes.mp3,,,,,Radio,WOR Show,,,,,,
 19711011W,"October 11,1971","Writers Convention, Conference at Playboy",1971_10_11_Conference_At_Playboy.mp3,,,,,Radio,WOR Show,,,,,,
 19711012W,"October 12, 1971",Commercials,1971_10_12_Commercials.mp3,,,,,Radio,WOR Show,,,,,,
-19711015W,"October 15,1971","Army Pass, Going Home",,,,,,Radio,WOR Show,,,,,,"Orig Airdate 10-15-1971 
+19711015W,"October 15,1971","Army Pass, Going Home",1971_10_15_Four_Day_Pass.mp3,,,,,Radio,WOR Show,,,,,,"Orig Airdate 10-15-1971 
 Based on reference to Bloomfield Collage show on 10-16-71
 
 Rerun 1976mmddWg
 FHC had undated excerpt of same"
+***************,,,1971-10-19_002_Betty_Hughes_Show_WCAU-TV.mp3,,,,,,,,,,,,
 19711022W,"October 22,1971",Wizard of OZ- Cavemen,,,,,,Radio,WOR Show,,,,,,
 19711025W,"October 25,1971",Army Rifle Range,,,,,,Radio,WOR Show,,,,,,
-19711027W,"October 27,1971",Giving Advice / Yellow Kid Wild,,,,,,Radio,WOR Show,,,,,,
+19711027W,"October 27,1971",Giving Advice / Yellow Kid Wild,1971_10_27_Advice_and_Admiration.mp3,,,,,Radio,WOR Show,,,,,,
 197110ddW,October 1971,"Trivia, Hickory Bark Review, Nostalgia",,,,,,Radio,WOR Show,,,,,"The show ""Reviews, Nostalgia"" dated Oct. 1971 can be narrowed down to either 13 or 14 Oct. Shep mentions he'll be at Bloomfield College ""this Saturday"" which was the 16th; the 13th & 14th are the only dates that don't have shows associated with them for that week. - (spiderman via Sheptalk.com 12-10-2010)",
-197110ddWa,October 1971,"Trivia, Pot News, Jersey Devil, Kentucky Devil",1971_10_xx_NJ_And_Kentucky_Devils.mp3,,,,,Radio,WOR Show,,,,,Shep mentions that in one week from Saturday he will be appearing at Bloomfield Collage on October 16th. That dates this show sometime during the week of 10/4/71,
+197110ddWa,October 1971,"Trivia, Pot News, Jersey Devil, Kentucky Devil",1971_10_xx_NJ_And_Kentucky_Devils.mp3,1971_10_xx_Devils.mp3,,,,Radio,WOR Show,,,,,Shep mentions that in one week from Saturday he will be appearing at Bloomfield Collage on October 16th. That dates this show sometime during the week of 10/4/71,
 197110ddWar,October 1971,"Marching Band & Wilbur Duckworth, Parade and Floats",1971_10_xx_Parade_Marching_Band.mp3,,,,,Radio,WOR Show,,"Tony, John",Quick station ID - somewhat annoyed at the distraction,"Put the horses to the back of the parade! The crowds are betting on whether the trombone player is going to step square in it.
 
 Shep describes Wilbur Duckworth and rehearsing for a marching parade
@@ -6590,7 +6599,7 @@ Announces Princeton show - Saturday November 6th at 8:30pm. All seats reserved -
 197110ddWb,October 1971,"Checla Cars, Devils, Mysterious Blackout in Woods",,,,,,Radio,WOR Show,,,,,,
 197110ddWc,October 1971,Car Dealer,1971_10_xx_Car_Dealer.mp3,,,,,Radio,WOR Show,,,,,,
 197110ddWe,October 1971,"Reviews, Nostalgia",,,,,,Radio,WOR Show,,,,,,
-197110ddWf,October 1971,UK Car Shopping,,,,,,Radio,WOR Show,,,,,,
+197110ddWf,October 1971,UK Car Shopping,1971_10_xx_UK_Car_Shopping.mp3,,,,,Radio,WOR Show,,,,,,
 19711101W,"November 1, 1971",Life / Brain Waves,,,,,,Radio,WOR Show,,,,,,
 19711103W,"November 3, 1971","TV Weather Girls, Newsmen, Moose",,,,,,Radio,WOR Show,,,,,,
 19711105W,"November 5, 1971","Farmer who Collected Things, Planes, M/C, Cars",,,,,,Radio,WOR Show,,,,,,
@@ -6610,6 +6619,7 @@ Instead of closing theme, Shep goes off playing music from Fletcher Henderson.",
 19711125W,"November 25, 1971","Controls of the Universe, Alligator in Swamp,  Obscene Phone Number",1971_11_25_Crank_Calls.mp3,,,,,Radio,WOR Show,,,,,,
 19711126W,"November 26, 1971",Wet Cement,1971_11_26_Wet_Cement.mp3,,,,,Radio,WOR Show,,,,,,
 19711129W,"November 29, 1971",Disposable Car,1971_11_29_Disposable_Car_restored.mp3,,,,,Radio,WOR Show,,,,,,
+***************,,,1971-11-30_002_Virginia_Graham.mp3,,,,,,,,,,,,
 197111ddWa,November 1971,Army Induction,1971_11_xx_Army_Induction.mp3,,,,,Radio,WOR Show,,,,,,
 19711203W,"December 3, 1971",Stealing,1971_12_03_Stealing.mp3,,,,,Radio,WOR Show,,,,,,
 19711206W,"December 6, 1971",Newspaper Boy Story,,,,,,Radio,WOR Show,,,,,,
@@ -6621,8 +6631,8 @@ The first plane he built was a ""Stinson Reliant"" which his mother broke ""a li
 Aerial Photography - kids send a camera up 1,000 feet attached to a balloon to take pictures and the string breaks. 
 
 Shep and Schwartz build a model of the ""Flying Quaker"" in the basement. They buy it for $15 after the prices was reduced from $21, and work together in Shep's basement assembling it. Finally it is ready, and they bring it outside, run a few tests of the engine, and then get ready for the maiden flight. The plane takes off and climbs to about 1,000 feet in a spiraling left turn. Suddenly it straightens out and takes off, climbing even higher. Everyone jumps into the car and they chase the plane down highway 41, through fields and used car lots, only to watch it fade off into the sunset never to be seen again. ",,
-19711216W,"December 16, 1971",Used Cars,1971_12_16_Used_Cars_2.mp3,,,,,Radio,WOR Show,,,,,[Rich B] Shep claims to have owned a Hudson Hornet,
-19711217W,"December 17, 1971",Beer and Uncle Carl,1971 12 17 Beer & Uncle Carl 2.mp3,,,,,Radio,WOR Show,,,,"Nose flute accompaniment to Mozart.
+19711216W,"December 16, 1971",Used Cars,1971 12 16 Used Cars.mp3,1971_12_16_Used_Cars_2.mp3,,,,Radio,WOR Show,,,,,[Rich B] Shep claims to have owned a Hudson Hornet,
+19711217W,"December 17, 1971",Beer and Uncle Carl,1971 12 17 Beer & Uncle Carl.mp3,1971 12 17 Beer & Uncle Carl 2.mp3,,,,Radio,WOR Show,,,,"Nose flute accompaniment to Mozart.
 
 Discusses techniques for inspiration - Sherlock Holmes had his pipe. For Shep - Occasionally the nose flute, other times the Jew's Harp, but sometimes ""nothing will do it like beer!""
 
@@ -6647,7 +6657,7 @@ An explosive ending to Uncle Carl's brewery and his quick escape  by the back do
 ""To ignore beer is to ignore life""  JS","""A classic""  LT",
 19711218Wa,"December 18, 1971",Robert Service,,,,,,Radio,WOR Show,,,,,Misdated? There are 2 shows for 12/18/71,
 19711218Wb,"December 18, 1971",Christmas Madness,,,,,,Radio,WOR Show,,,,,Misdated? There are 2 shows for 12/18/71,
-19711221W,"December 21, 1971",Hunter's Stew,,,,,,Radio,WOR Show,,Nick,,,,FHC dated the 197112dd show as 12/21/71 - Date correct? Same shows.
+19711221W,"December 21, 1971",Hunter's Stew,1971 12 xx Hunters Stew.mp3,,,,,Radio,WOR Show,,Nick,,,,FHC dated the 197112dd show as 12/21/71 - Date correct? Same shows.
 19711222W,"December 22, 1971",Playing Santa,,,,,,Radio,WOR Show,,,,,,
 19711223W,"December 23, 1971","Commercials, Playboy",,,,,,Radio,WOR Show,,,,,,
 19711224W,"December 24, 1971",Earliest Christmas,1971 12 24 Earliest Christmas.mp3,,,,,Radio,WOR Show,,,,,,
@@ -6659,13 +6669,13 @@ He talks about the New Year's Eve shows he did in the past. Town Hall, Limelight
 New Year's Eve at Grandma's with all the cousins. They watched the Times Square celebration and couldn't understand the 1 hour time difference. Granma brings out a tray of pickled herring - ""For good luck!""
 
 Outside they hear shooting and suddenly the street is crawling with police cars with their search lights pointing towards a third floor apartment across the street. On TV they see the report that the police are in a shootout with ""Big Lefty McGoon"" on the north side of Chicago. ""Big Lefty"" gets caught and the kids all celebrate midnight.",,
-197112ddWa,December 1971,Hunter's Stew,,,,,,Radio,WOR Show,,Nick,,,,FHC also dated this as 12/21/71 both shows are the same
-197112ddWb,December 1971,Earthbound + Flyers,,,,,,Radio,WOR Show,,,,,,
-197112ddWc,December 1971,Kooky Stamps,1971 12 xx Kooky Stamps.mp3,,,,,Radio,WOR Show,,,,,,
+197112ddWa,December 1971,Hunter's Stew,1971 12 xx Hunters Stew.mp3,,,,,Radio,WOR Show,,Nick,,,,FHC also dated this as 12/21/71 both shows are the same
+197112ddWb,December 1971,Earthbound + Flyers,1971 12 xx Earthbound + Flyers.mp3,1971_12_xx_Earthbound_and_Flyers.mp3,,,,Radio,WOR Show,,,,,,
+197112ddWc,December 1971,Kooky Stamps,1971_12_xx_Kooky_Stamps.mp3,1971_Stamps.mp3,,,,Radio,WOR Show,,,,,,
 197112ddWd,December 1971,Turnips,1971 12 xx Turnips.mp3,1971_12_xx_Turnips.mp3,,,,Radio,WOR Show,,,,,,
 197112ddWe,December 1971,Real US History,1971_12_xx_Real_US_History.mp3,,,,,Radio,WOR Show,,,,,,
-197112ddWf,December 1971,Shepherd Experience 2,,,,,,Radio,WOR Show,,,,,,
-197112ddWg,December 1971,"Singing Dogs, Talking Plants and Strange Radio Waves",,,,,,Radio,WOR Show,,Herb Squire,,"""Jingle Bell"" as sung by dogs. ""Sorry, Herb""
+197112ddWf,December 1971,Shepherd Experience 2,1971_12_xx_Shepherd_Experience_2.mp3,,,,,Radio,WOR Show,,,,,,
+197112ddWg,December 1971,"Singing Dogs, Talking Plants and Strange Radio Waves",1971_12_xx_Plants_Ham_Radio.mp3,,,,,Radio,WOR Show,,Herb Squire,,"""Jingle Bell"" as sung by dogs. ""Sorry, Herb""
 
 A salute to Mrs Barlow who had a 10 ft deep hole mysteriously appear in her backyard.
 
@@ -6687,7 +6697,7 @@ Massenram, gets the worlds worst weather, so don't complain!
 Book signings at Bamberger’s in Wayne New Jersey, launches into story about two oriental kids holding signs. One sign said ‘Excelsior’; the other sign said 'You Fathead!'","February 24th
 Booksignings - Bambergers 1-3pm Willingboro Shopping Center in Wayne
 Summit Book Shop 4-6pm",
-1971mmddW,1971,Confession Night,,,,,,Radio,WOR Show,,,,,,
+1971mmddW,1971,Confession Night,1971_Confession_Night.mp3,,,,,Radio,WOR Show,,,,,,
 1971mmddWa,1971 (Summer),Phone Booth Fantasy,,,,,,Radio,WOR Show,,,,,,
 1971mmddWab,1971,"Old Movies, Comedy, Shep in Play",,,,,,Radio,WOR Show,,,,,,
 1971mmddWac,1971,"Oriental News, Music, Shep as School Patrol",,,,,,Radio,WOR Show,,,,,,
@@ -6712,7 +6722,7 @@ Summit Book Shop 4-6pm",
 1971mmddWbl,1971,The Specialist,1971_The_Specialist.mp3,,,,,Radio,WOR Show,,,,Shep reads Chic Sale book about the Specialist. Outhouse builder.,,
 1971mmddWbm,1971,"Rituals, Graduation, Commercials",,,,,,Radio,WOR Show,,,,,,"FHC lists this as a July show
 Kalish, who recorded it, lists as 1971"
-1971mmddWbn,1971,"Air Stories, Heinz and Roscoe Turner",,,,,,Radio,WOR Show,,,,,,"FHC lists this as a July show
+1971mmddWbn,1971,"Air Stories, Heinz and Roscoe Turner",1971_07_xx_Air_Stories.mp3,,,,,Radio,WOR Show,,,,,,"FHC lists this as a July show
 Kalish, who recorded it, lists as 1971"
 1971mmddWc,1971,"Fake Ids, Diplomas, Credentials",1971_Fake_IDs_Diplomas_Credentials.mp3,,,,,Radio,WOR Show,,,,,,
 1971mmddWd,1971,Peace Watch,1971_Peace_Watch.mp3,,,,,Radio,WOR Show,,,,,,
@@ -6722,12 +6732,12 @@ Kalish, who recorded it, lists as 1971"
 1971mmddWj,1971,Summer Pinball,,,,,,Radio,WOR Show,,,,,,
 1971mmddWk,1971,"Trivia, Shooting, Finger",,,,,,Radio,WOR Show,,,,,,
 1971mmddWl,1971,Trivia,,,,,,Radio,WOR Show,,,,,,
-1971mmddWm,1971,Junk Mail,,,,,,Radio,WOR Show,,,,,,
+1971mmddWm,1971,Junk Mail,1971_Junk_Mail.mp3,,,,,Radio,WOR Show,,,,,,
 1971mmddWn,1971,"Music, Lady on Ferry, Rotton Artists, Names, Dirt Track Racing",,,,,,Radio,WOR Show,,,,,,
-1971mmddWo,1971,"National Spitting Contest, Inflatable Bras",,,,,,Radio,WOR Show,,,,,,
-1971mmddWt,1971,"Freezer Story, Rival, Ice Age, Wildlife",,,,,,Radio,WOR Show,,,,,,
+1971mmddWo,1971,"National Spitting Contest, Inflatable Bras",1971_National_Spitting_Contest.mp3,,,,,Radio,WOR Show,,,,,,
+1971mmddWt,1971,"Freezer Story, Rival, Ice Age, Wildlife",1971_Ice_Age_Wild_Life.mp3,,,,,Radio,WOR Show,,,,,,
 1971mmddWu,1971,Festivals and Contests,,,,,,Radio,WOR Show,,,,,,
-1971mmddWw,1971,"Larry Gardner, Milwaukee Beer Day, Signal Corps Theme Song",,,,,,Radio,WOR Show,,,,,,
+1971mmddWw,1971,"Larry Gardner, Milwaukee Beer Day, Signal Corps Theme Song",1971_Signal_Corp_Song.mp3,,,,,Radio,WOR Show,,,,,,
 1971mmddWx,1971,The Privy Builder,,,,,,Radio,WOR Show,,,,"Shep reads ""The Specialist"" by Chic Sale",,Probably 1971 - Shep refers to his TV Show and re-release of IGWT.
 1971mmddWy,1971,Mobile Home and Ghost Town,,,,,,Radio,WOR Show,,,,,,
 19720103W,"January 3, 1972",Time and Resolutions,,,,,,Radio,WOR Show,,,,,,
@@ -6764,6 +6774,7 @@ Along the way he gives some background material of the strips to help refresh me
 197201ddWa,January 1972,Behind the Scenes,1972_01_xx_Behind_The_Scenes.mp3,,,,,Radio,WOR Show,,,,,,
 197201ddWb,January 1972,The Boarding House,1972_01_xx_Boarding_House.mp3,,,,,Radio,WOR Show,,,,,,
 197201ddWd,January 1972,Sense of Place,1972_01_xx_Sense_Of_Place.mp3,,,,,Radio,WOR Show,,,,,,
+***************,,,1972_01_xx_Long_John_Nebel_1.mp3,1972_01_xx_Long_John_Nebel_2.mp3,1972_01_xx_Long_John_Nebel_3.mp3,,,,,,,,,,
 19720203W,"February 3, 1972","Salute to George Plimpton, Rain and Cars",1972_02_03_Rain_Cabs_Fish.mp3,,,,,Radio,WOR Show,,,,,,
 19720210W,"February 10, 1972","Scrambled Eggs Light, Excelsior",1972_02_10_Diners_and_Excelsior_restored.mp3,1972_02_10_Diners_and_Excelsior_restored.mp3,,,,Radio,WOR Show,,Herb Squire,,"Shep opens with Stars and Stripes playing with a salute to the candidates in this year's election.
 
@@ -6793,13 +6804,14 @@ The flag pole sitter
 
 The marriage of Al and Rose - Married over ham radio, husband, wife, Reverand all in different locations.",,
 19720218W,"February 18, 1972","Robbery at Bank of America, Gangsters and Gunmen",1972_02_18_Bankrobbers.mp3,1972-04-18_030_Bankrobbers.mp3,,,"I gotta hand it to all of you, you're so brave...so brave.",Radio,WOR Show,,,,,,
-19720221W,"February 21, 1972","Washington's Birthday, Colonial History, French 75",1972_02_21_Studs_Terkel.mp3,,,,,Radio,WOR Show,,Herb Squire,,"Refers to Limelight show where everyone sings happy birthday to George Washington.
+19720221W,"February 21, 1972","Washington's Birthday, Colonial History, French 75",,,,,,Radio,WOR Show,,Herb Squire,,"Refers to Limelight show where everyone sings happy birthday to George Washington.
 
 Shep spends the show discussing Washington and the time period. He talks about Washington's teeth and uniform which are in the Smithsonian and his rank.
 
 Revolutions vs Rebellions - The Boston Tea Party
 
 Washington drank Madera wine which leads to a discussion of what the troops drank at the time and famous drinks of the military. The ""Artillary Punch"" of the Revolutionary War, the ""Stonewall"" from the Civil War, and the ""French 75"" from WW-I. The Stonewall consisted of a jigger of bourbon in a glass filled with apple cider.",,
+***************,,,1972_02_21_Studs_Terkel.mp3,1972-02-21_030_Studs_Terkel_WFMT.mp3,,,,,,,,,,,
 19720225W,"February 25, 1972",Shep's Father's Bowling Tournament,1972_02_25_The_Old_Mans_300_Game.mp3,,,,,Radio,WOR Show,,,Speaking of oni - this is WOR,"The Old Man's quest to win a prize.
 
 Bowling on the ABC tour he bowls a 300 game and becomes a local hero.
@@ -6902,7 +6914,7 @@ London, Frankfurt, Istanbul, Beruit, Tehran, Bangkok
 
 
 ""I don't make the news - I just reports it!""",10:30 break for Lester Smith reporting primary results in Wisconsin.,
-19720405W,4/5/1972,Losing Plane Ticket In Iran,,,,,,Radio,WOR Show,,Jerry,,,,
+19720405W,4/5/1972,Losing Plane Ticket In Iran,1972_04_xx_Lost_Ticket.mp3,,,,,Radio,WOR Show,,Jerry,,,,
 19720406W,"April 6, 1972",Trip Around the World in 7 days - Part 2,1972_04_06_World_Trip_2.mp3,,,,,Radio,WOR Show,,,,,,
 19720407W,"April 7, 1972",Flick's Tongue,,,,,,Radio,WOR Show,,,,"Shep tells the story of being a kid and their involvement in kid mythology. There were the believers and non-believers. He talks about myths such as the poisonous inside of a golf ball, the indelible pencil, bats flying into your hair, swallowing gum will make your stomach stick together,and the tongue myth. 
 
@@ -6975,7 +6987,7 @@ He further discusses the technologies that may come down in the future to be use
 19720612W,"June 12, 1972","Beware of Animals - Alimony, Incidents with Animals",1972_06_12_Beware_of_Animals.mp3,,,,,Radio,WOR Show,,,,,,"On June 12, 1972, Mrs. Al Kaminsky was a passenger on American Airlines Flight 96 when the rear cargo door blew out with an almighty bang. The floor at the rear of the DC-10 collapsed, and panels in the cabin flew open. One of them gashed Kaminsky’s face. When the plane turned back and landed in Detroit, she hesitated about jumping from the top of the escape slide; a flight attendant had to push her out. Kaminsky slipped at the bottom and cut her foot to the bone. Finally, FBI agents detained her to interrogate her, her husband, and the other passengers about being suspected terrorists. “They tried to kill me!” Kaminsky was later heard saying."
 19720613W,"June 13, 1972","Philly Boo Birds, Conscience, Apology to Philadelphia",1972_06_13_Philly_Boo_Birds.mp3,,,,,Radio,WOR Show,,,,,,
 19720615W,"June 15, 1972","Gettysburg, Roach Races, $750 Ring & Balloon, Guinea Pig",1972_06_15_Roaches_Ring_and_Balloon_Guinea_Pigs.mp3,,,,,Radio,WOR Show,,,,,,
-19720616W,"June 16, 1972","Guinea Pigs, Horses",,,,,,Radio,WOR Show,,,,,,"[jim] Based on weather and baseball scores before and after the show this was from 6/16/1972
+19720616W,"June 16, 1972","Guinea Pigs, Horses",1972_06_19_Hamsters_and_Horses.mp3,,,,,Radio,WOR Show,,,,,,"[jim] Based on weather and baseball scores before and after the show this was from 6/16/1972
 Shep says it's Friday night
 General Tire Pre 4th of July Sale
 Rapid City S.D. Flooding 'a week ago'  - (June 9-10)
@@ -7174,9 +7186,9 @@ top of it""",
 19721009W,"October 9, 1972",Broke in NYC,,,,,,Radio,WOR Show,,,,,,
 19721010W,"October 10, 1972","Refer to English, Shep's First Love",,,,,,Radio,WOR Show,,,,,,
 19721011W,"October 11, 1972",Caddy Stories,,,,,,Radio,WOR Show,,,,,,
-19721012W,"October 12, 1972",Step On A Crack Break Your Mother's Back,1972_10_12_Smellovision.mp3,,,,,Radio,WOR Show,,,,,,
+19721012W,"October 12, 1972",Step On A Crack Break Your Mother's Back,,,,,,Radio,WOR Show,,,,,,
 19721012Wa,"October 12, 1972","Fu Man Chu, Smell-O-Rama, Sight of Sleep Phobia",1972_10_12_Smellovision.mp3,,,,,Radio,WOR Show,,,"Poor slobs, which reminds me, this is WOR New York, of course, the big time, . . .","Excerpts from an article on ""Sight of Sleep Phobia"" from a London publication. New fad stated in the village - pacifiers. Shep describes a momentary movie fad, Smell-O-Vision! The theory that at seven years old we are set in our ways. Sheps father a fan of ""Fu Man Chui"" books. Jersey images, marching forward in spite of the obvious facts.",,Date confired using newscast at end. Nixon returned from Ga campaign swing. Confirmed using Nixon library daily diary
-19721013W,"October 13, 1972","Superstition, Friday the 13th",1972_10_13_Superstition.mp3,,,,,Radio,WOR Show,,,,,,
+19721013W,"October 13, 1972","Superstition, Friday the 13th",1972_10_13_Superstition.mp3,1972_10_13_Joe_Franklin.mp3,,,,Radio,WOR Show,,,,,,
 19721016Wa,"October 16, 1972","Pollution, Found Money, Asserting Yourself On A Chow Line, Revenge",1972_10_16_Found_Money.mp3,,,,,Radio,WOR Show,,,,,,
 19721018W,"October 18, 1972",Last Night's Carnegie Hall Show With Clips,1972_10_18_Carnegie_Hall_Recap.mp3,,,,,Radio,WOR Show,,,,,,
 19721018Wa,"October 18, 1972",Stepping on Cracks,1972_10_18_Carnegie_Hall_Recap.mp3,,,,,Radio,WOR Show,,,,,,This show cannot be 10-18-72 since the Carnegie show from PD ties in with Shep's 10-17-72 Carnegie appearance
@@ -7198,9 +7210,10 @@ Darkness - All of man is afraid of the dark. Hunters in the darkness.Shep does a
 19721102W,"November 2, 1972",Army Chickens,1972_11_02_Army_Chickens.mp3,,,,,Radio,WOR Show,,,,,,(FHC)May be 11/3
 19721103W,"November 3, 1972","Marijuana Soup, Chicken Plucking, Motor Pool",1972_11_03_Soup.mp3,,,,,Radio,WOR Show,,,,,,
 19721106W,"November 6, 1972",Head Lice Invades Shep's Class,1972_11_06_Lice.mp3,,,,,Radio,WOR Show,,,,,,
-19721108W,"November 8, 1972",Post Election Talk,1972_11_08_Instant_Deja_Vu.mp3,,,,,Radio,WOR Show,,,,,,
+19721108W,"November 8, 1972",Post Election Talk,,,,,,Radio,WOR Show,,,,,,
 19721108Wa,"November 8, 1972",Instant déjà vu,1972_11_08_Instant_Deja_Vu.mp3,,,,,Radio,WOR Show,,,,,,
 19721109W,"November 9, 1972",Salute to Sneaky People,1972_11_09_Sneaky_People.mp3,,,,,Radio,WOR Show,,,,,,
+***************,,,1972_11_09_Martha_Deane.mp3,,,,,,,,,,,,
 19721110W,"November 10, 1972","Cockroach Poem, Romantic New York City",1972_11_10_Seven_Million.mp3,,,,,Radio,WOR Show,,George,,,,
 19721113W,"November 13, 1972",Miss Bailey & Figs,1972_11_13_The_Shocking_Truth_About_Figs.mp3,,,,,Radio,WOR Show,,,,,,
 19721114W,"November 14, 1972","Polly the Parrot, Mrs. Trainer, Banks",1972_11_14_Polly_Parrot_and_Banks.mp3,,,,,Radio,WOR Show,,,,,,
@@ -7240,7 +7253,7 @@ A pilot landing in the jungles of the Amazon gets shot at by the local natives. 
 197211ddWa,November 1972,Cavemen,,,,,,Radio,WOR Show,,,,,,
 197211ddWb,November 1972,Eating Dog Food,1972_11_xx_Eating_Dog_Food.mp3,,,,,Radio,WOR Show,,,,,,
 197211ddWc,November 1972,First Car Sale,,,,,,Radio,WOR Show,,,,,,
-197211ddWd,November 1972,West Side NYC,,,,,,Radio,WOR Show,,,,,,
+197211ddWd,November 1972,West Side NYC,1972_11_xx_West_Side_NYC.mp3,,,,,Radio,WOR Show,,,,,,
 197211ddWe,November 1972,Turtle on the Runway,,,,,,Radio,WOR Show,,,,,,
 19721201W,"December 1, 1972","Commercials, Honesty & Cheats - Mistakes",1972_12_01_Mistakes.mp3,,,,,Radio,WOR Show,,,,,,
 19721204W,"December 4, 1972","Trivia, Football and Related Topics",1972_12_04_Marching_As_Art.mp3,,,,,Radio,WOR Show,,,,,,
@@ -7353,6 +7366,7 @@ Shep receives a Christmas gift from friends of a pornographic radiator ornament 
 Shep talks about radiator ornaments and how they are coming back really big. People have great collections of ornaments. He refers to a New York Time article obout the comeback.
 He describes the different ornaments which adorned the older cars such as the Model A, and those found on Pontiacs. 
 He once saw a chauffeured Cadillac with the Howard Johnson ""Pie Man"" as an ornament. The license plates were ""HJ"". He talks about how you can get ornaments based on  your occupation.",,
+***************,,,1972-12-30_022_NBC_Monitor-Rayburn.mp3,,,,,,,,,,,,
 197212ddWa,December 1972,Games and Frogs,,,,,,Radio,WOR Show,,,,,,
 197212ddWb,December 1972,Beer and Uncle Carl,1972_12_xx_Beer_and_Uncle_Carl.mp3,,,,,Radio,WOR Show,,,,,,
 1972mmddW,1972,Sports,1972_Sports_clipped.mp3,,,,,Radio,WOR Show,,,,,,
@@ -7536,7 +7550,7 @@ Shep is Freshman in high school
 Miss Fife is mentioned as a member of the English Dept.",
 19730213W,"February 13, 1973",Bills,,,,,,Radio,WOR Show,,,,,,
 19730214W,"February 14, 1973",A Valentines Day Perspective,,,,,,Radio,WOR Show,,,,,,
-19730215W,"February 15, 1973",Life At The Boarding House,1973_02_15_Boarding_House.mp3,,,,,Radio,WOR Show,,,,,,
+19730215W,"February 15, 1973",Life At The Boarding House,1973_02_15_Boarding_House.mp3,1973_02_15_Casper_Citron.mp3,,,,Radio,WOR Show,,,,,,
 19730216W,"February 16, 1973",Robert Service Poems,,,,,,Radio,WOR Show,,,,,,
 19730219W,"February 19, 1973","Revolving Door Disasters, Modern Literature, Truth or Fiction",1973_02_19_Truth_Or_Fiction.mp3,,,,,Radio,WOR Show,,"Jim, Jerry",,"Shep promos the next 3 days of booksignings for ""Ferrari in the Bedroom""
 Tomorrow (2/20) from 3-6 in Bambergers at the Monmouth Mall
@@ -7551,7 +7565,7 @@ Thursday (2/22) 3-6 Bambergers - Garden State Plaza and at 7:30 Bambergers Willo
 
 He points out that television and movie heros run in trends and describes the current wave of folksy and ethnic detectives. He talks about folk heros and pop culture.",,
 19730228W,"February 28, 1973","Guinea Pigs, Trains, Snowmobiles",1973_02_28_Snowmobiles.mp3,,,,,Radio,WOR Show,,,,,,
-197302ddW,February 1973,Silent Film Piano,,,,,,Radio,WOR Show,,,,"Shep, Flick and Schwartz standing on the corner when car comes to a stop in front of them. Another car hits this one in the rear knocking the driver of the first car fall out into the street. His car was still in gear and drives off without him. He chases it around in circles and on the 10th lap the car crashes into the pool room.
+197302ddW,February 1973,Silent Film Piano,1973_02_xx_Silent_Film_Piano.mp3,,,,,Radio,WOR Show,,,,"Shep, Flick and Schwartz standing on the corner when car comes to a stop in front of them. Another car hits this one in the rear knocking the driver of the first car fall out into the street. His car was still in gear and drives off without him. He chases it around in circles and on the 10th lap the car crashes into the pool room.
 
 Shep plays music from the album ""Play Me A Movie"" by Abraham Lass who used to play the piano in theatres during the silent movie days. As he plays each cut, he describes the mood that is trying to be created by the music.",,
 19730301W,"March 1, 1973","Spring at Home, baseball practice",1973_03_01_School_Baseball.mp3,,,,,Radio,WOR Show,,,,,,
@@ -7665,7 +7679,7 @@ This date is a Sat - there were no Sat shows in 1973"
 19730419W,"April 19, 1973","Instinct, heredity And Environment",,,,,,Radio,WOR Show,,,,,,
 19730420W,"April 20, 1973",More Folk Talents,,,,,,Radio,WOR Show,,,,,,
 19730423W,"April 23, 1973",Stamps As Propaganda,,,,,,Radio,WOR Show,,,,,,
-19730426W,"April 26, 1973",Charlie Chan And The Hindenburgh,,,,,,Radio,WOR Show,,,,,,
+19730426W,"April 26, 1973",Charlie Chan And The Hindenburgh,1973_04_xx_Charlie_Chan.mp3,,,,,Radio,WOR Show,,,,,,
 197304ddW,April 1973,Navy Penn Game,1973_10_22_Navy_Penn_Game.mp3,,,,,Radio,WOR Show,,,,,,"Not 10/22/73 
 Commercials are inserted - rerun?
 Mayor Lindsay (January 1966 to December 1973)
@@ -7717,7 +7731,7 @@ The following fall he goes to the first day of Latin class and there is no Helen
 19730612W,"June 12, 1973",New York City's Love/Hate Relationship,1973_06_12_New_Yorkers.mp3,,,,,Radio,WOR Show,,,,,,
 19730613W,"June 13, 1973",The Great Ice Cream War,1973_06_13_Ice_Cream_War.mp3,,,,,Radio,WOR Show,,Jerry Lambert,-turning out this enormous cloud of pollution which reinds me this is WOR,"Shep takes a trip back home and describes how not much has changed and as he drives up the main street he spots ""The Igloo"", the site of the Great Ice Cream War. He tells the story of the Great Ice Cream War between ""The Igloo"" and Borden's Dairy back in Hammond during the late 30's. The two were right across the street from one another and one day a battle was fought driving the prices down from 12 cents a double dip to FREE.",This show is the same show as the 6-21-74 show,
 19730615W,"June 15, 1973","Modern Dilldockery In Action, Watergate Shoes",1973_06_15_Watergate_Shoes.mp3,,,,,Radio,WOR Show,,,,,,
-19730618W,"June 18, 1973",Shepherd Vs. The Machine,,,,,,Radio,WOR Show,,,,,,
+19730618W,"June 18, 1973",Shepherd Vs. The Machine,1973_06_16_Shep_vs_Machine.mp3,,,,,Radio,WOR Show,,,,,,
 19730619W,"June 19, 1973","American Folk Poetry, The Hellbound Train",1973_06_19_Folk_Poetry.mp3,,,,,Radio,WOR Show,,,,,,
 19730620W,"June 20, 1973",Today's Crowd And Mankind's Future,1973_06_20_Future.mp3,,,,,Radio,WOR Show,,,,,,
 19730621W,"June 21, 1973",Why The Midwest Is The True Home Of Radicals,1973_06_21_Midwest_Radicals.mp3,,,,,Radio,WOR Show,,,,,,
@@ -7742,7 +7756,7 @@ Notes that the spelling is ""Daygo""",
 19730710W,"July 10, 1973",Summer School (Repeat),1973_07_10_Summer_School.mp3,,,,,Radio,WOR Show,,,,,,
 19730712W,"July 12, 1973",Radio Station Contest Scam,1973_07_12_Contest_Scam.mp3,,,,,Radio,WOR Show,,,,,,
 19730713W,"July 13, 1973",Get Rid Of That Unfinished Kit (Repeat),,,,,,Radio,WOR Show,,,,,,
-19730716W,"July 16, 1973",The Detroit Tigers/Chicago White Sox Riot,,,,,,Radio,WOR Show,,Nick/Jerry,,"Baseball is the topic of this show. Shep compares various matchups and rivalries between teams such as the Yanks vs Cards.
+19730716W,"July 16, 1973",The Detroit Tigers/Chicago White Sox Riot,1973_07_14_Sox_vs_Tigers.mp3,,,,,Radio,WOR Show,,Nick/Jerry,,"Baseball is the topic of this show. Shep compares various matchups and rivalries between teams such as the Yanks vs Cards.
 
 He mentions that he did the 'color' for the 1st World Series broadcast live over the Armed Services Network.
 
@@ -7845,7 +7859,7 @@ Some commercials were cut part way through"
 19730926W,"September 26, 1973",Flying Aces - The Black Claw,,,,,,Radio,WOR Show,,,,,,
 19730927W,"September 27, 1973","Remote TV Van Disaster, Clothes Eating Toilet",,,,,,Radio,WOR Show,,,,,,
 19730928W,"September 28, 1973","Howard Cosell, Tuba On Top Of a Flagpole",,,,,,Radio,WOR Show,,,,,,
-197309ddW,September 1973,Sports Riots,1973_09_10_Chain_Letter.mp3,,,,,Radio,WOR Show,,,,None,,"Two clues in dating it happen at 15:27 when the commercial says to act by 9/17, which would put it in the first two weeks of September 1973. In looking at shows from those two weeks the only ones missing are Thursday September 6 or Friday September 14. 
+197309ddW,September 1973,Sports Riots,1973_09_xx_Sports_Riots.mp3,,,,,Radio,WOR Show,,,,None,,"Two clues in dating it happen at 15:27 when the commercial says to act by 9/17, which would put it in the first two weeks of September 1973. In looking at shows from those two weeks the only ones missing are Thursday September 6 or Friday September 14. 
 
 Also at 41:34 Jean talks about Scott Spencer Pogo contest which by an internet search happened on 8/12/73.
 
@@ -7875,10 +7889,11 @@ Turns out the real Dr. Youngson is a boring engineer and so the auto company dec
 19731029W,"October 29, 1973",The Real Show Biz Influences,,,,,,Radio,WOR Show,,,,,,
 19731030W,"October 30, 1973","Approaching Christmas, Football",,,,,,Radio,WOR Show,,,,,,
 19731031W,"October 31, 1973",Halloween,,,,,,Radio,WOR Show,,,,,,
-197310ddW,October 1973,Memory,1973_10_10_Frozen_Salamander_clipped.mp3,,,,,Radio,WOR Show,,,,,,
-197310ddWa,October 1973,Student Demonstration,1973_10_10_Frozen_Salamander_clipped.mp3,,,,,Radio,WOR Show,,,,,,
+197310ddW,October 1973,Memory,,,,,,Radio,WOR Show,,,,,,
+197310ddWa,October 1973,Student Demonstration,1973_10_xx_Student_Demonstration.mp3,,,,,Radio,WOR Show,,,,,,
 19731101W,"November 1, 1973",Why Man Hangs In,,,,,,Radio,WOR Show,,,,,,
 19731102W,"November 2, 1973",How It Is And How It Aint,,,,,,Radio,WOR Show,,,,,,
+***************,,,1973_11_03_John_B_Tucker.mp3,,,,,,,,,,,,
 19731105W,"November 5, 1973",Catalogues (Repeat),,,,,,Radio,WOR Show,,,,,,
 19731107W,"November 7, 1973",How Shep Was Victim Of Accurate Typecasting,,,,,,Radio,WOR Show,,,,,,
 19731108W,"November 8, 1973",Strangely Related Subjects,,,,,,Radio,WOR Show,,,,,,
@@ -7908,6 +7923,7 @@ They kept them in a canning jar, but they would transport the roach in a small m
 19731205W,"December 5, 1973","Football, The Hate Break, Santa Claus",,,,,,Radio,WOR Show,,,,,,
 19731206W,"December 6, 1973",Gas Siphoning,1973_12_06_Gas_Siphoning.mp3,,,,,Radio,WOR Show,,,,,,
 19731207W,"December 7, 1973",Program Before 12/7/41 Bulletin,,,,,,Radio,WOR Show,,,,,,
+***************,,,1973_12_09_Pledge_Drive.mp3,,,,,,,,,,,,
 19731210W,"December 10, 1973",Tribute To Martha Deanne,1973_12_10_Martha_Deane_Tribute.mp3,,,,,Radio,WOR Show,,,,,,
 19731211W,"December 11, 1973",Rosetta Stones,1973_12_11_Rosetta_Stones.mp3,,,,,Radio,WOR Show,,,,,,
 19731212W,"December 12, 1973",Pomposity Factor,1973_12_12_Grublenuts.mp3,,,,,Radio,WOR Show,,,,,,
@@ -7970,6 +7986,7 @@ He goes on to tell about growing up as a kid exploring swamps and building caves
 197401ddWc,January 1974,Radio Artifacts,,,,,,Radio,WOR Show,,,,,,
 19740202W,"February 2, 1974",Lesson Taking,,,,,,Radio,WOR Show,,,,,,
 19740204W,"February 4, 1974",Unexpected Undersudies,,,,,,Radio,WOR Show,,,,,,
+***************,,,1974-02-06_030_Nebel_Jones_Show_WMCA.mp3,,,,,,,,,,,,
 19740214W,"February 14, 1974","Pepito the Monkey, Pickled peppers Disasters (Red and Green Things)",,,,,,Radio,WOR Show,,,,Shep reads a story about a monkey that steals a hot pepper sandwich. This leads  to his telling the story about his experience with hot polish peppers as a kid. Along the way he talks about the paper routes he had and his experiences with an Airedale.,,
 19740218W,"February 18, 1974","Cigar Practical Joke, Robert Service Smoking Poem",,,,,,Radio,WOR Show,,,,,,
 19740221W,"February 21, 1974",Press Overkill At The Super Bowl,,,,,,Radio,WOR Show,,,,,,
@@ -8023,7 +8040,7 @@ Good and bad memories - Country Western music",,
 19740705W,"July 5, 1974","4 Songs By Abe Burrows, Panhandlers, Manhattan On A Holiday",,,,,,Radio,WOR Show,,,,,,
 19740708W,"July 8, 1974",From Frying Pan Into The Fire,,,,,,Radio,WOR Show,,,,,,
 19740715W,"July 15, 1974",Shep's Collection Of Worthless Items,,,,,,Radio,WOR Show,,,,,,
-19740716W,"July 16, 1974",Golf Caddy,,,,,,Radio,WOR Show,,,,,,
+19740716W,"July 16, 1974",Golf Caddy,1973_08_xx_Golf_Caddy.mp3,,,,,Radio,WOR Show,,,,,,
 19740718W,"July 18, 1974",Summer Heat,,,,,,Radio,WOR Show,,,,,,
 19740728W,"July 28, 1974","Suicidal Weekends, Shep's Mom's Color TV, Candy Bar Fight",,,,,,Radio,WOR Show,,,,,Boston Rerun? No WOR Sunday shows during this period,
 19740729W,"July 29, 1974",TV & Mets Trivia,,,,,,Radio,WOR Show,,,,,,
@@ -8868,7 +8885,7 @@ Need date confirmation"
 19760120W,"January 20, 1976","Electra, Radio Eng. Fired for getting TV License",1976_01_20_edit_FCC_License.mp3,,,,,Radio,WOR Show,,Jerry Lambert,,"The story of Electra by Sophocles
 
 Shep tells about the radio engineer who went to a convention of radio engineers back in the days when TV was just beginning to start up. The FCC had set up a booth to promote TV and the engineer signed up to apply for a station license. A few weeks later the application was approved and the owner of the station was infuriated. He said they couldn't afford to run a TV station and there was no future in it, but they had no choice. He did not want to be embarrased in front of the FCC. The engineer was fired and the TV station is worth $22 million. (WLS)","Electra, obsessed by dreams of avenging her father's murder, impatiently awaits the return of her exiled brother Orestes. When he arrives, the play mounts toward its first climax, a tender recognition scene. From that moment on, Electra uses Orestes as her instrument of vengeance. They kill their mother's husband, then their mother herself--and only afterward see the evil inherent in these seemingly just acts.",
-19760122W,"January 22, 1976","Jesus Saves Graffiti, Friend Fired, Rock Painter",1976_01_22_Jesus_Saves_edit.mp3,,,,,Radio,WOR Show,,,,"Did you ever see road signs with bullet holes?
+19760122W,"January 22, 1976","Jesus Saves Graffiti, Friend Fired, Rock Painter",1976_01_22_Jesus_Saves_edit.mp3,1976_Jesus_Saves_-_Nightlife_of_the_Gods.mp3,,,,Radio,WOR Show,,,,"Did you ever see road signs with bullet holes?
 Shep loves to drive the back roads late at night and describes the grafitti such as ""Jesus Saves"" painted on rocks. He tells one story of someone putting up posters for a candidate only to be followed by another car with 2 guys who are taking them down. Who does this stuff?
 
 Cars named after gods such as Mercury and Apollo - mythology
@@ -8888,6 +8905,7 @@ At 10 years old Shep sends away for a taxidermy kit. He finds an old dead cat an
 
 He explains the function of the witch doctor within his tribe and describes the meaning behind the various chants, and the expected results.",,
 19760130Wa,"January 30, 1976",Fear,1976_01_30_Fear_edit.mp3,,,,,Radio,WOR Show,,,,,,
+***************,,,1976_01_xx_Dr._Slicker.mp3,,,,,,,,,,,,
 19760202W,"February 2, 1976","Pepito the Monkey, Hot Polish Peppers at Blue-Bird Tavern, Paper Route",1976_02_02_Pepito_and_Scruffy_edit.mp3,,,,,Radio,WOR Show,,,"this is what set man apart from the beast, which reminds me this is WOR",Shep reads a story about a monkey that steals a hot pepper sandwich. This leads  to his telling the story about his experience with hot polish peppers as a kid. Along the way he talks about the paper routes he had and his experiences with Scruffy the Airedale.,,
 19760203W,"February 3, 1976",Reporter With Lion Tamer,,,,,,Radio,WOR Show,,Barney,,"A new drink -""Orphan Annie's Debauch""
 
@@ -8944,7 +8962,7 @@ The gas shortage and hobbies such as gas siphoning.",,FHC had this dated 2/4/76
 19760225W,"February 25, 1976","Liquor, Drinkology",1976_02_25_Drinkology_end_clipped.mp3,,,,,Radio,WOR Show,,,,,,
 19760226W,"February 26, 1976","Egyptian Gods, Pharoah in Egypt",1976_02_26_Pharoah_edit.mp3,,,,,Radio,WOR Show,,,,,,
 19760227W,"February 27, 1976",Illiterate Students,1976_02_27_Puff_Courses_edit.mp3,,,,,Radio,WOR Show,,,,,,
-197602ddW,February 1976,Human Animal,,,,,,Radio,WOR Show,,,,,,
+197602ddW,February 1976,Human Animal,1976_02_xx_Human_Animal_edit.mp3,,,,,Radio,WOR Show,,,,,,
 19760302W,"March 2, 1976","Singing in the Shower, Sound Effects",1976_03_02_Sound_Effects_edit_clipped.mp3,,,,,Radio,WOR Show,,,,"Shep gets hold of a sound effects record and apends the entire show playing various portions of it.
 
 He plays the soothing sounds of rain storms, the sounds of a submarine crew preparing a launch and launching a torpedo, and the sounds of a bullfight.",,
@@ -9161,7 +9179,7 @@ Celebrety hawking - Bill Cosby, Nancy Walker",,
 19760618W,"June 18, 1976",Summer School,,,,,,Radio,WOR Show,,,,,,
 19760621W,"June 21, 1976",Cockroach Racing,,,,,,Radio,WOR Show,,,,,,
 19760622W,"June 22, 1976","New York, A Medieval City",,,,,,Radio,WOR Show,,,,,,
-19760623W,"June 23, 1976",Comedy Technique,,,,,,Radio,WOR Show,,,,,,
+19760623W,"June 23, 1976",Comedy Technique,1971_Comedy_Technique.mp3,,,,,Radio,WOR Show,,,,,,
 19760624W,"June 24, 1976",Derigables,,,,,,Radio,WOR Show,,,,,,
 19760625W,"June 25, 1976",Age of Bad Taste,,,,,,Radio,WOR Show,,,,,,
 19760713W,"July 13, 1976",Lice,,,,,,Radio,WOR Show,,,,,,
@@ -9355,7 +9373,7 @@ The steel mill, working in the 40 inch soaking pits.",,
 1976mmddW2369,Unknown,The Flying Quaker Model Airplane Kit,,,,,,Radio,WOR Show,,,,,,
 1976mmddW2371,Unknown,The Quickie Paint Job,,,,,,Radio,WOR Show,,,,,,
 1976mmddW2372,Unknown,Steel Mill Mailman Disaster,,,,,,Radio,WOR Show,,,,,,
-1976mmddW2374,Unknown,The Ages of Man  /  Age of Bad Taste,,,,,,Radio,WOR Show,,,,,,
+1976mmddW2374,Unknown,The Ages of Man  /  Age of Bad Taste,1976_Ages_Of_Man.mp3,,,,,Radio,WOR Show,,,,,,
 1976mmddW2375,Unknown,Political Candidates and Promises,,,,,,Radio,WOR Show,,,,,,
 1976mmddW2376,Unknown,"Soldier of Fortune, Aptitude Tests",,,,,,Radio,WOR Show,,,,,,
 1976mmddW2377,Unknown,"Commercial Trends, Radio Catalogs,  Listening to Police Calls",1976_Commercial_Trends.mp3,,,,,Radio,WOR Show,,,,,,
@@ -9447,16 +9465,19 @@ George Washington had painful false teeth",,
 1976mmddW2434,Unknown,Whatever Became of.....?,,,,,,Radio,WOR Show,,,,,,
 1976mmddW4099,Unknown,Basement,1976_Basement.mp3,,,,,Radio,WOR Show,,,,,,
 1976mmddW4135,Unknown,Robert Service,1976_Robert_Service.mp3,,,,,Radio,WOR Show,,,,,,
-1976mmddW4149,Unknown,Victim Of Surrealism,1976_Victim_Of_Surrealism.mp3,,,,,Radio,WOR Show,,,,,,
+1976mmddW4149,Unknown,Victim Of Surrealism,1976_Victim_Of_Surrealism.mp3,1976_11_xx_Victim_Of_Surrealism.mp3,,,,Radio,WOR Show,,,,,,
 1976mmddW4150,Unknown,Worlds Greatest Jackdaw,1976_Worlds_Greatest_Jackdaw.mp3,,,,,Radio,WOR Show,,,,,,
 1976mmddW6210,Unknown,Newsreel - Retired Numbers - American Traits,,,,,,Radio,WOR Show,,,,None,,
-1976mmddW6283,1976,Army Radar Joke,1976_Army_Radar_Joke.mp3,,,,,Radio,WOR Show,,,,None,,This is not the same as the 197612ddW show or the 19710121W show
+1976mmddW6283,1976,Army Radar Joke,1976_Army_Radar_Joke.mp3,1976_12_xx_Army_Joke_edit.mp3,,,,Radio,WOR Show,,,,None,,This is not the same as the 197612ddW show or the 19710121W show
 1976mmddW6284,1976,Car Paint Job,1976_Car_Paint_Job.mp3,,,,,Radio,WOR Show,,,,None,,
 1976mmddW6285,Unknown,Pay The Bill,1976_Pay_the_Bill.mp3,,,,,Radio,WOR Show,,,,None,,
 1976mmddW6427,Unknown,Cars Horses,1976_or_1977_Cars_Horses.mp3,,,,,Radio,WOR Show,,,,None,,"Not the same as ""Cars - Horse Show"" (19yymmddW4157)"
 1976mmddW6428,,Department Store,,,,,,Radio,WOR Show,,,,None,,"Not the same as ""Department Store"" (197ymmddW4109)"
 1976mmddW6429,Unknown,Rumpus Room / Junk in the Basement,1976_Rumpus_Room.mp3,,,,,Radio,WOR Show,,,,,,Syndicated version of 1976-12-03 show
 1976mmddW6430,Unknown,Human Relics,1976_Human_Relics.mp3,,,,,Radio,WOR Show,,,,,,
+***************,,,1976_Nehi_Part_1.mp3,1976_Nehi_Part_2.mp3,1976_Nehi_Part_3.mp3,,,,,,,,,,
+***************,,,1976_Bolis.mp3,,,,,,,,,,,,
+***************,,,1976_Tomorrow_Tom_Synder.mp3,,,,,,,,,,,,
 19770103W,"January 3,1977",Training Film (Green Light),,,,,,Radio,WOR Show,,,,,,
 19770104W,"January 4, 1977",All Slob Request Night,,,,,,Radio,WOR Show,,,,,,
 19770105W,"January 5, 1977",Airplanes and Blowguns,,,,,,Radio,WOR Show,,,,,,
@@ -9493,7 +9514,7 @@ Is this Horsing Around?",,
 197702ddWc,February 1977,Turning Point,1977_02_xx_Turning_Point_edit.mp3,,,,,Radio,WOR Show,,,,,,
 19770301W,"March 1, 1977",Rotten Ralph and Other Stories,,,,,,Radio,WOR Show,,,,,,
 19770301Wa,"March 1, 1977",The Emu,,,,,,Radio,WOR Show,,,,,,
-19770302W,"March 2, 1977",C&W Predictions,,,,,,Radio,WOR Show,,,,,This is the same show as Schmidco set #3 33a 1976mmddW33a - probably a rerun,
+19770302W,"March 2, 1977",C&W Predictions,1976_C_and_W_Prediction.mp3,,,,,Radio,WOR Show,,,,,This is the same show as Schmidco set #3 33a 1976mmddW33a - probably a rerun,
 19770303W,"March 3, 1977",Super Electronic Watch,,,,,,Radio,WOR Show,,,,,,
 19770304W,"March 4, 1977",Basic Rube Revoution,,,,,,Radio,WOR Show,,,,,Same as Schmidco set #3 33b? 1976mmddW33b,
 19770307W,"March 7, 1977",The Decline of Sports,,,,,,Radio,WOR Show,,,,,,
@@ -9563,12 +9584,12 @@ This show is a rerun from 4-1-68
 From Laurie Squire:
 In the last couple of months of Jean's time at WOR he did very few live shows and left it up to me to pick any show for air. I would listen through a tape for any glaring problems, have the old spots edited out and new ones inserted. I tried to choose shows that aired around the same time of the month so the April Fool's tape was chosen for that reason (I know, sounds bad but...). As to why he didn't do a last live show, that decision also was not up to him (but, for the record, he had no desire to do an ""official"" final live one): typically (not always but often) when an on-air talent was removed, the WOR management at the time did not want anyone's final show to be live out of fear that something untoward might happen or be said.",
 1977mmddW2451,Unknown,Historyland,,,,,,Radio,WOR Show,,,,,,
-1977mmddW2452,Unknown,The Last Laugh,,,,,,Radio,WOR Show,,,,,,
+1977mmddW2452,Unknown,The Last Laugh,1977_The_Last_Laugh.mp3,,,,,Radio,WOR Show,,,,,,
 1977mmddW2453,Unknown,Basement,,,,,,Radio,WOR Show,,,,,WBUR,"This is a 30 min Synd version of the 1973-03-16 show 
 It could also possibly be the 1962-12-27 show?"
 1977mmddW2454,Unknown,Birthday,1977_Birthday.mp3,,,,,Radio,WOR Show,,,,,WBUR,
 1977mmddW2456,Unknown,Flim Flam,1977_Flim_Flam.mp3,,,,,Radio,WOR Show,,,,,WBUR,
-1977mmddW2457,Unknown,True Fears,,,,,,Radio,WOR Show,,,,,WBUR,
+1977mmddW2457,Unknown,True Fears,1977_True_Fears.mp3,,,,,Radio,WOR Show,,,,,WBUR,
 1977mmddW2459,Unknown,Literacy,1977_Literacy.mp3,,,,,Radio,WOR Show,,,,,,
 1977mmddW2460,Unknown,Showbiz Trauma,1977_Showbiz_Traumas.mp3,,,,,Radio,WOR Show,,,,,,
 1977mmddW6399,,Time Capsule,1977_Time_Capsule.mp3,,,,,Radio,WOR Show,,,,None,,
@@ -9586,10 +9607,10 @@ It could also possibly be the 1962-12-27 show?"
 197ymmddW4098,Unknown,Army NYC It,1976_Army_NYC_It.mp3,,,,,Radio,WOR Show,,,,,,
 197ymmddW4100,Unknown,Beer Quiz,1976_Beer_Quiz.mp3,,,,,Radio,WOR Show,,,,,,
 197ymmddW4101,Unknown,Boles,,,,,,Radio,WOR Show,,,,,,
-197ymmddW4102,Unknown,C & W Prediction,,,,,,Radio,WOR Show,,,,,,
-197ymmddW4103,Unknown,Car Pool,,,,,,Radio,WOR Show,,,,,,
+197ymmddW4102,Unknown,C & W Prediction,1976_C_and_W_Prediction.mp3,,,,,Radio,WOR Show,,,,,,
+197ymmddW4103,Unknown,Car Pool,1976_Car_Pool.mp3,,,,,Radio,WOR Show,,,,,,
 197ymmddW4104,Unknown,CB Madness,,,,,,Radio,WOR Show,,,,,,
-197ymmddW4105,Unknown,Comic Strip Stamps,,,,,,Radio,WOR Show,,,,,,
+197ymmddW4105,Unknown,Comic Strip Stamps,1976_Comic_Strip_Stamps.mp3,,,,,Radio,WOR Show,,,,,,
 197ymmddW4106,Unknown,Commercial Trends,,,,,,Radio,WOR Show,,,,,,
 197ymmddW4107,Unknown,Convention Speeches,,,,,,Radio,WOR Show,,,,,,
 197ymmddW4108,Unknown,Beer and Uncle Carl,,,,,,Radio,WOR Show,,,,,,
@@ -9679,7 +9700,7 @@ Snipe hunting",,
 19yymmddW4093,Unknown,Delis,,,,,,Radio,WOR Show,,,,,,
 19yymmddW4094,Unknown,CW,,,,,,Radio,WOR Show,,,,Morse code in the Army and an embarrassing QSL moment as a kid,,
 19yymmddW4095,Unknown,Erector Set,,,,,,Radio,WOR Show,,,,,,19xx xx xxWar_030 Erector Set WKAT pos 12-4-74
-19yymmddW4097,Unknown,Self Help And The American Dream,,,,,,Radio,WOR Show,,,,,,19xx xx xxWar_030 Erector Set WKAT pos 12-4-74
+19yymmddW4097,Unknown,Self Help And The American Dream,1976_Self_Help_and_the_American_Dream.mp3,,,,,Radio,WOR Show,,,,,,19xx xx xxWar_030 Erector Set WKAT pos 12-4-74
 19yymmddW5092,Unknown,"Army - War Games, Maneuvers, Company K",,,,,,Radio,WOR Show,,,,"Army Games 
 40 degrees in Missouri (Probably during Signal Corps training at Camp Crowder",,
 x108,,Hartwest Productions,,,,,,Business Ventures,Syndicated Shows,,,,"Hartwest Productions was a syndicator back in the 1960's who maintained one of the most extensive programming-production departments in the syndication field. They supplied sydicated shows such as The Joe Pyne Show, the Paul Gibson Show, the Barry Gray Show, and the Jean Shepherd Show to radio staions across the country. 
