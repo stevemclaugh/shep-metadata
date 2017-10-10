@@ -1,4 +1,7 @@
-01 1967 07 31 Fishing Tackle.mp3
+1967-07-31_022_PBS-The_Three_Worlds_of_Jean_Shepherd.mp3
+
+
+
 01 1967 08 01 The Bandini.mp3
 01 1967 08 20 Gene Autrey.mp3
 01 1967 09 02 Raincoat.mp3
@@ -7,7 +10,7 @@
 19530123Radio.mp3
 1957 06 16.mp3
 1957 Hurling Invective excerpt.mp3
-1957-06-16_030_Early_Shep.mp3
+
 1957-07-13_106_R21_Bandstand_USA-Shep_guest-live-news.mp3
 1957-xx-xx_010_I_want_a_scroll.mp3
 19570616.mp3
@@ -39,78 +42,76 @@
 1960_06_11_2.mp3
 1960_06_18.mp3
 1960_06_25_Racing.mp3
-1960_07_02_Living_In_The_Future.mp3
-1960_07_04.mp3
-1960_07_09.mp3
-1960_07_10.mp3
-1960_07_23.mp3
-1960_07_30.mp3
-1960_07_31_2_Fear_of_the_Inexplicable.mp3
-1960_08_07.mp3
-1960_08_14_2.mp3
-1960_09_03.mp3
-1960_09_04_A.mp3
-1960_09_10.mp3
-1960_09_11.mp3
-1960_09_18.mp3
-1960_11_xx_Election.mp3
+
+
+
+
+
+
+
+
+
+
+
 1960_Chewing_Tobacco.mp3
 1960_JG_the_Ape.mp3
 1961 02 22 Telling the Truth.mp3
-1961 03 01.mp3
-1961 03 02.mp3
-1961 09 04.mp3
+
+
+
 1961 Early Spring.mp3
-1961-06-03_030_George_Kaufman.mp3
-1961_02_22_Telling_the_Truth.mp3
-1961_02_27.mp3
-1961_03_01.mp3
-1961_03_02.mp3
-1961_03_04.mp3
-1961_06_03_George_Kaufman.mp3
-1961_09_04.mp3
-1961_09_05.mp3
+
+
+
+
+
+
+
+
+
 1961_Car_crash_excerpt.mp3
 1961_Early_Spring.mp3
 1961_Fragments.mp3
-1961_Pirate_Radio.mp3
-1962 02 21 The Mole People.mp3
-1962 02 22 Kate and George.mp3
-1962 04 24.mp3
-1962 09 19 Elephant Foot and t.mp3
-1962-02-15_030_Myths_and_The_3_Ways_To_Live.mp3
-1962-02-22_030_Self_Delusion_And_Dogma.mp3
-1962_02_15_Myths_and_the_First_Day_at_the_Mill.mp3
-1962_02_21_The_Mole_People.mp3
-1962_04_23_Piano_Factory.mp3
-1962_04_24.mp3
-1962_09_19_Elephant_Foot_and_t.mp3
-1963 03 05.mp3
-1963 04 23.mp3
-1963 04 25_PARTIAL_097_Schraffts_Lady.mp3
-1963 04 26 Popping Corks.mp3
-1963 04 26.mp3
-1963 08 29 March On Washington.mp3
-1963 10 23 excerpt 1.mp3
-1963 10 23 excerpt 2.mp3
-1963 11 15.mp3
-1963 11 18.mp3
-1963 11 25.mp3
-1963 12 30.mp3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1963-10-10_097_Life_as_a_Short_Story.mp3
+
+
+
+
+
 1963 Mice.mp3
-1963 Ping Pong.mp3
+
 1963 Shep Sings.mp3
 1963 Truth.mp3
-1963-04-25_030_Atomaniacs-excerpt.mp3
-1963-04-26_500_Popping_The_Cork.mp3
-1963-05-31_500_Lithuanian_Compost_Heap.mp3
-1963-07-04_500_Old_Mans_Fireworks_Stand.mp3
-1963-08-05_500_Watchers_vs_Doers.mp3
-1963-12-19_030_A_Sportsman_For_All_Occassions.mp3
-1963_03_05.mp3
-1963_04_23.mp3
-1963_04_25_excerpt.mp3
-1963_04_xx_Army_Room_mate.mp3
+
+1963-07-04_130_Leigh_Brown_and_Shep_on_Long_John_Nebel.mp3
+
+
+
+
+
+
+
+
+
 1963_04_xx_Baseball_Fans.mp3
 1963_04_xx_Cause__Effect.mp3
 1963_04_xx_Compassion__Cantalopes.mp3
@@ -134,9 +135,11 @@
 1964-02-14_041_Valentines_Party.mp3
 1964_01_16_Great_Indiana_Blizzard.mp3
 1964_01_XX_Sheps_Name.mp3
-1964_01_xx_Mistaken_Identity.mp3
+1964-01-10_041_Kids_Worshipped_as_Gods.mp3
+
+
 1964_02_05_Shooting_Planes_excerpt.mp3
-1964_02_xx_Role_Reversal.mp3
+
 1964_05_23_1_Movie_Dish_Night.mp3
 1964_06_13_1_Band_Formation.mp3
 1964_06_20_1.mp3
@@ -254,71 +257,73 @@
 1966 Straws In The Wind.mp3
 1966 summer Bum Poetry and Frogs.mp3
 1966 summer Cockroaches.mp3
-1966-12-24_500_LJN.mp3
-1966_01_14_World_Records_Obscene_Bathmat.mp3
-1966_01_15_1_Perfect_Crime.mp3
-1966_01_22_Studs_Turkels_Wax_Museum.mp3
-1966_02_11.mp3
-1966_02_12_Part_2.mp3
-1966_02_21.mp3
-1966_03_08.mp3
-1966_03_25.mp3
-1966_03_28.mp3
-1966_04_04.mp3
-1966_04_06_Human_Comedy.mp3
-1966_04_23_2_Army_Stories.mp3
-1966_04_28_Garbage_Dump.mp3
-1966_05_09.mp3
-1966_05_21.mp3
-1966_05_31.mp3
-1966_06_17.mp3
-1966_06_23.mp3
-1966_07_20_Calendar_Art_1.mp3
-1966_07_28_Style.mp3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1966_08_06_1_Bolis_Wedding.mp3
-1966_10_xx_Flying_Saucers.mp3
+
 1966_11_28_George_Ade_Stories.mp3
-1966_12_xx_Flying_Dutchman_clipped.mp3
-1966_Age_of_Total_Showbiz.mp3
-1966_End_Of_The_World.mp3
-1966_Harmony.mp3
-1966_Lake_Michigan.mp3
-1966_Nature_Of__Man_1.mp3
-1966_Nature_Of__Man_2.mp3
-1966_Oz.mp3
-1966_Paris_Adventure.mp3
-1966_Skin_Diving_in_the_Red_Sea.MP3
-1966_Straws_In_The_Wind.mp3
-1967 04 01 Patent Medicine.mp3
-1967 05 02 Steel Mill.mp3
-1967 05 30 Marching Band.mp3
-1967 07 04 Lud Kissell and the.mp3
-1967 07 14 Failure Factor.mp3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1967 10 07_054_LL_Concrete_Mexicans_Shep_the_Colonel_and_Sweetheart_Pillows.mp3
 1967 10 14_054_LL_Judgment_Day_Book_Report_for_Miss_Bryfogel.mp3
 1967 11 04_054_LL_Jobs_2nd_Lieutenant_Shepherd.mp3
 1967 11 18_054_LL_Army_Movies_Chow_in_the_Mess_Hall.mp3
-1967 Mismating Ducks.mp3
-1967 Poetry.mp3
-1967_03_17_Ireland.mp3
-1967_03_xx_Cukoo_Whistle_clipped.mp3
-1967_06_29_Inventions.mp3
-1967_06_29_Piano_Factory.mp3
-1967_07_31_Fishing_Tackle.mp3
-1967_08_26_2.mp3
+
+
+
+
+
+
+
+
 1967_09_16_LL_Full.mp3
 1967_10_21_Duckworth_and_Marching_Band.mp3
-1967_11_11_Hobbies_Radar_Tonsils_and_Beer.mp3
+
 1967_11_25_Thanksgiving__-_Pass_to_USO.mp3
 1967_12_07_Fairleigh_Dickenson.mp3
 1967_12_09_Sunrise_Semester_The_NY_Woman.mp3
-1967_Bananas_clipped.mp3
-1967_Cheap_Cars_start_clipped.mp3
-1967_Coke_and_Aspirin_clipped.mp3
+
+
+
 1967_Foul_Fowls_end_clipped.mp3
-1967_Hobbies_Potatoes_etc_clipped.mp3
-1967_Mismating_Ducks.mp3
-1967_Night_Manuevers_clipped.mp3
+
+
+
 1967_Straws_in_Wind.mp3
 1967_Tatoos_clipped.mp3
 1967_or_1968_Troop_Train_Ernie.mp3
@@ -527,8 +532,9 @@
 1972_02_xx_Lurking_Suckers.mp3
 1972_02_xx_Straws_In_The_Wind.mp3
 1972_02_xx_West_Coast.mp3
-1972_03_13_Frauds_and_Hoaxes.mp3
-1972_03_22_History_Etc.mp3
+
+
+
 1972_03_xx_Brooklyn.mp3
 1972_03_xx_Censored_Lyrics_clipped.mp3
 1972_03_xx_Creepy_Stories.mp3
@@ -560,13 +566,13 @@
 1972_06_xx_Railroading.mp3
 1972_06_xx_Tornado_At_Mill.mp3
 1972_06_xx_USA_Ingenuity.mp3
-1972_07_xx_Minnesota.mp3
-1972_07_xx_Show_Biz_Stories.mp3
-1972_08_xx_Ben_The_Rat.mp3
-1972_08_xx_Fishing_clipped.mp3
-1972_08_xx_Gordian_Knot.mp3
-1972_08_xx_Trip_To_Sweden.mp3
-1972_08_xx_VD_Film.mp3
+
+
+
+
+
+
+
 1972_10_13_Joe_Franklin.mp3
 1972_11_09_Martha_Deane.mp3
 1972_11_xx_Eating_Dog_Food.mp3
@@ -585,7 +591,7 @@
 1973_01_xx_Rumors.mp3
 1973_01_xx_Scout_Balloon.mp3
 1973_01_xx_Turtle_Painter.mp3
-1973_02_05_Bears.mp3
+
 1973_02_15_Boarding_House.mp3
 1973_02_xx_Silent_Film_Piano.mp3
 1973_03_xx_Ancient_Crud.mp3
@@ -751,3 +757,212 @@ artchatpodcast-045a.mp3
 carrs.mp3
 central41315.mp3
 comdedians-chd.mp3
+
+
+
+
+
+
+4th of July in the Army-massbackwards-4th-of-july-in-the-army.mp3
+A Salute to WOR Radio-massbackwards-a-salute-to-wor-radio.mp3
+A Valentines Day Perspective-massbackwards-a-valentines-day-perspective.mp3
+A Woman's Work is Never Done-massbackwards-a-womans-work-is-never-done.mp3
+Ahab's Arctic Apples-massbackwards-ahabs-arctic-apples.mp3
+All Slob Request Night-massbackwards-all-slob-request-night.mp3
+Americans and their Cars-massbackwards-americans-and-their-cars.mp3
+An Absurd World-massbackwards-an-absurd-world.mp3
+Animal Kingdom & Dead Flies-massbackwards-animal-kingdom-dead-flies.mp3
+Animals and Pants-massbackwards-animals-and-pants.mp3
+Antique Cars - the Bugatti-massbackwards-antique-cars-the-bugatti.mp3
+Army War Games-massbackwards-army-war-games.mp3
+Aunt Clara and Cousin Buddy, Drunks-massbackwards-aunt-clara-and-cousin-buddy-drunks.mp3
+Back to Witchcraft-massbackwards-back-to-witchcraft.mp3
+Ball Lightning-massbackwards-ball-lightning.mp3
+Basement Intruder - 3 shots in the Basement-massbackwards-basement-intruder-3-shots-in-the-basement.mp3
+Ben the Sewer Rat-massbackwards-ben-the-sewer-rat.mp3
+Bolis Wedding and Army VD Film-massbackwards-bolis-wedding-and-army-vd-film.mp3
+Bolis' Wedding-massbackwards-bolis-wedding.mp3
+Bolus Wedding-massbackwards-bolus-wedding.mp3
+Britsh News - Subways - George Ade - Good Fairy-massbackwards-britsh-news-subways-george-ade-good-fairy.mp3
+Brooklyn-massbackwards-brooklyn.mp3
+Cameo Theory of Memory-massbackwards-cameo-theory-of-memory.mp3
+Campaign Cliches-massbackwards-campaign-cliches.mp3
+Carl the Singing Chicken-massbackwards-carl-the-singing-chicken.mp3
+Carnegie Hall Recap-massbackwards-carnegie-hall-recap.mp3
+Chicago - How To Kill A Saturday Night - Follow The Drunk-massbackwards-chicago-how-to-kill-a-saturday-night-follow-the-drunk.mp3
+Christmas - Perfume Atomizer-massbackwards-christmas-perfume-atomizer.mp3
+Christmas cards reflect the times-massbackwards-christmas-cards-reflect-the-times.mp3
+Code School Show-massbackwards-code-school-show.mp3
+Comet Kohutek and The End Of The World-massbackwards-comet-kohutek-and-the-end-of-the-world.mp3
+Commentaries and IGWT-massbackwards-commentaries-and-igwt.mp3
+Commercial Characters-massbackwards-commercial-characters.mp3
+Company K Meets Lt Cherry-massbackwards-company-k-meets-lt-cherry.mp3
+Company Picnics - Job at Milk Company-massbackwards-company-picnics-job-at-milk-company.mp3
+Computer Dates and Mail Order Mates-massbackwards-computer-dates-and-mail-order-mates.mp3
+Court Jester-massbackwards-court-jester.mp3
+Cowboy X-massbackwards-cowboy-x.mp3
+Crashing Picnics - June 19, 1970-massbackwards-crashing-picnics-june-19-1970.mp3
+Creativity-massbackwards-creativity.mp3
+Critics and Effluvia-massbackwards-critics-and-effluvia.mp3
+Curses pt2-massbackwards-curses-pt2.mp3
+Curses-massbackwards-curses.mp3
+Custer - Graduation Day-massbackwards-custer-graduation-day.mp3
+Custer and Graduation-massbackwards-custer-and-graduation.mp3
+Dayak Curse - Flick's Frozen Tongue-massbackwards-dayak-curse-flicks-frozen-tongue.mp3
+Dime Store Grab Bag-massbackwards-dime-store-grab-bag.mp3
+Disorganized Baseball-massbackwards-disorganized-baseball.mp3
+Dracula - Shep in Black Forest-massbackwards-dracula-shep-in-black-forest.mp3
+Drunken Animals-massbackwards-drunken-animals.mp3
+Early Morning Radio-massbackwards-early-morning-radio.mp3
+Electric Roses, Lake Michigan Weather, Steel Mill Tornado-massbackwards-electric-roses-lake-michigan-weather-steel-mill-tornado.mp3
+End of the Alphabet - Ballad of Pious Pete-massbackwards-end-of-the-alphabet-ballad-of-pious-pete.mp3
+Fanatics and Tyrants-massbackwards-fanatics-and-tyrants.mp3
+Fiesta Drive and Indy 500-massbackwards-fiesta-drive-and-indy-500.mp3
+First Day of Kindergarten-massbackwards-first-day-of-kindergarten.mp3
+First Earth Day-massbackwards-first-earth-day.mp3
+First Summer Job-massbackwards-first-summer-job.mp3
+Fourth of July Limelight-massbackwards-fourth-of-july-limelight.mp3
+Frankenstein Myth - Superman Idea- Machines-massbackwards-frankenstein-myth-superman-idea-machines.mp3
+From the Edge of Nowhere - Shep and the FOTR-massbackwards-from-the-edge-of-nowhere-shep-and-the-fotr.mp3
+Full Moon - Nut Call Night-massbackwards-full-moon-nut-call-night.mp3
+Fund drve and 1950s Shep-massbackwards-fund-drve-and-1950s-shep.mp3
+Geoerge Ade Stories-massbackwards-geoerge-ade-stories.mp3
+Glee Club - part 1-massbackwards-glee-club-part-1.mp3
+Glee Club - part 2-massbackwards-glee-club-part-2.mp3
+Godzonka-massbackwards-godzonka.mp3
+Going Down to Cripple Creek-massbackwards-going-down-to-cripple-creek.mp3
+Government Coverups - UFOs - Inner Earth-massbackwards-government-coverups-ufos-inner-earth.mp3
+Great Ice Cream War-massbackwards-great-ice-cream-war.mp3
+Great Indiana Blizzard-massbackwards-the-great-indiana-blizzard.mp3
+Halftime Sousaphone-massbackwards-halftime-sousaphone.mp3
+Hamsters in Space-massbackwards-hamsters-in-space.mp3
+Harold Dill - Tolls and Tipping-massbackwards-harold-dill-tolls-and-tipping.mp3
+Harold Dill Bully-massbackwards-harold-dill-bully.mp3
+Hollering-massbackwards-hollering.mp3
+Hooked on Altered States-massbackwards-hooked-on-altered-states.mp3
+How Shep Ran Into the Big World-massbackwards-how-shep-ran-into-the-big-world.mp3
+How to Make Money on Commercial Radio-massbackwards-how-to-make-money-on-commercial-radio.mp3
+Hung Up - Ham Radio-massbackwards-hung-up-ham-radio.mp3
+Hurling Invectives - Fire Works and War Games-massbackwards-hurling-invectives-fire-works-and-war-games.mp3
+Hypnotism-massbackwards-hypnotism.mp3
+In Paris-massbackwards-in-paris.mp3
+Infinate Radio Signals-massbackwards-infinate-radio-signals.mp3
+Inside Radio-massbackwards-inside-radio.mp3
+Inside the orchestra-massbackwards-inside-the-orchestra.mp3
+Isolation-massbackwards-isolation.mp3
+John Dillinger-massbackwards-john-dillinger.mp3
+Kennedy Assassination-massbackwards-kennedy-assassination.mp3
+Kids and Adults as Subjects for Study-massbackwards-kids-and-adults-as-subjects-for-study.mp3
+Kiteman-massbackwards-kiteman.mp3
+Krapps Last Tape-massbackwards-krapps-last-tape.mp3
+Labor Day Parade-massbackwards-labor-day-parade.mp3
+Labor Day Picnic-massbackwards-labor-day-picnic.mp3
+Last Ride of  The Domeliner-massbackwards-last-ride-of-the-domeliner.mp3
+Limelight - Polish Wedding-massbackwards-limelight-polish-wedding.mp3
+Limelight - The Great Ice Cream Riot-massbackwards-limelight-the-great-ice-cream-riot.mp3
+Limelight Show-massbackwards-limelight-show.mp3
+Live at the Village Limelight-massbackwards-live-at-the-village-limelight.mp3
+Losing Your Eyebrows-massbackwards-losing-your-eyebrows.mp3
+Lost High School Ring-massbackwards-lost-high-school-ring.mp3
+Ludlow Kissel and the Dago Bomb-massbackwards-ludlow-kissel-and-the-dago-bomb.mp3
+Ludow Kissel and the Dago Bomb-massbackwards-ludow-kissel-and-the-dago-bomb.mp3
+Manatee-massbackwards-manatee.mp3
+March on Washington-massbackwards-march-on-washington.mp3
+Marijuana Soup - Chicken Plucking - Motor Pool-massbackwards-marijuana-soup-chicken-plucking-motor-pool.mp3
+Mean Mess Hall-massbackwards-mean-mess-hall.mp3
+Memorial Day - Indy 500-massbackwards-memorial-day-indy-500.mp3
+Memorial Day - Inside the orchestra-massbackwards-memorial-day-inside-the-orchestra.mp3
+Memorial Day and Indy 500-massbackwards-memorial-day-and-indy-500.mp3
+Memorial Day-massbackwards-memorial-day.mp3
+Midwest Baseball-massbackwards-midwest-baseball.mp3
+Midwestern Drugstores and Drive-Ins-massbackwards-midwestern-drugstores-and-drive-ins.mp3
+Mike Todd's Party for Liz Taylor-massbackwards-mike-todds-party-for-liz-taylor.mp3
+Monsters in Michigan-massbackwards-monsters-in-michigan.mp3
+More Childhood Stories - Live at the Limelight-massbackwards-more-childhood-stories-live-at-the-limelight.mp3
+More From the Fair-massbackwards-more-from-the-fair.mp3
+Morse Code Record-massbackwards-morse-code-record.mp3
+Movie Dish Night-massbackwards-movie-dish-night.mp3
+Moving Pianos-massbackwards-moving-pianos.mp3
+Mud Hen Hunt-massbackwards-mud-hen-hunt.mp3
+Mystery of Women-massbackwards-mystery-of-women.mp3
+NAB Convention - Biting the Hand-massbackwards-nab-convention-biting-the-hand.mp3
+New Improved Packaging-massbackwards-new-improved-packaging.mp3
+New Years Eve at the Burly Cue-massbackwards-new-years-eve-at-the-burly-cue.mp3
+New Years Eve at the Burlycue-massbackwards-new-years-eve-at-the-burlycue.mp3
+New York, NY - A Helluva Town - Part 1-massbackwards-new-york-ny-a-helluva-town-part-1.mp3
+New York, NY - A Helluva Town - Part 2-massbackwards-new-york-ny-a-helluva-town-part-2.mp3
+Night Crawlers - Spring People - Worm Biz-massbackwards-night-crawlers-spring-people-worm-biz.mp3
+Nitty Gritty Radio-massbackwards-nitty-gritty-radio.mp3
+November 22, 1958 Saturday Show part 2-massbackwards-november-22-1958-saturday-show-part-2.mp3
+November 22, 1958 Saturday Show-massbackwards-november-22-1958-saturday-show.mp3
+Office Party-massbackwards-office-party.mp3
+Playboy Pad-massbackwards-playboy-pad.mp3
+Pledge Drive I-massbackwards-pledge-drive-i.mp3
+Pledge Drive II-massbackwards-pledge-drive-ii.mp3
+Pledge Drive III-massbackwards-pledge-drive-iii.mp3
+Pledge Drive Part 2-massbackwards-pledge-drive-part-2.mp3
+Pledge Drive-massbackwards-pledge-drive.mp3
+Protester's Bit-massbackwards-protesters-bit.mp3
+Radio Quiz - The Shadow Doesn't Know - Sports As A Religion-massbackwards-radio-quiz-the-shadow-doesnt-know-sports-as-a-religion.mp3
+Randy and the GAR fish-massbackwards-randy-and-the-gar-fish.mp3
+Rising From the Meatloaf-massbackwards-rising-from-the-meatloaf.mp3
+Robert Service Poems - Winter - Flick's Tongue-massbackwards-robert-service-poems-winter-flicks-tongue.mp3
+Salute to George Plimpton - Rain and Cabs-massbackwards-salute-to-george-plimpton-rain-and-cabs.mp3
+Santa's Zip Code-massbackwards-santas-zip-code.mp3
+Scientific Proof of Harmful Effects-massbackwards-scientific-proof-of-harmful-effects.mp3
+Second Annual Parade of  Humanity-massbackwards-second-annual-parade-of-humanity.mp3
+Shadows and Haiku-massbackwards-shadows-and-haiku.mp3
+Shep interviews Martin Newmark-massbackwards-shep-interviews-martin-newmark.mp3
+Shep Schwartz and Flick Play Chicken With Pills-massbackwards-shep-schwartz-and-flick-play-chicken-with-pills.mp3
+Spitting Stamps Books and Pulp Magazines about Railroads-massbackwards-spitting-stamps-books-and-pulp-magazines-about-railroads.mp3
+Spring Pledge Drive Part 2-massbackwards-spring-pledge-drive-part-2.mp3
+Spring Pledge Drive-massbackwards-spring-pledge-drive.mp3
+St Patricks Day in a Dublin Pub-massbackwards-st-patricks-day-in-a-dublin-pub.mp3
+St Patricks Day-massbackwards-st-patricks-day.mp3
+Starlings - Crazy Birds-massbackwards-starlings-crazy-birds.mp3
+Staten Island-massbackwards-staten-island.mp3
+Stock Market-massbackwards-stock-market.mp3
+Studs Terkel-massbackwards-studs-terkel.mp3
+Stuffed Cats and Radio Technology-massbackwards-stuffed-cats-and-radio-technology.mp3
+Summer Festivals and the Whoopie Instinct-massbackwards-summer-festivals-and-the-whoopie-instinct.mp3
+Summer Heat-massbackwards-summer-heat.mp3
+Sunken Ships-massbackwards-sunken-ships.mp3
+Super Fink is Here-massbackwards-super-fink-is-here.mp3
+Surrealism - First Car and License - Toys-massbackwards-surrealism-first-car-and-license-toys.mp3
+Take out the Garbage-massbackwards-take-out-the-garbage.mp3
+Teddy Bears, Shoveling Snow for Dollars-massbackwards-teddy-bears-shoveling-snow-for-dollars.mp3
+Telephones Placebos Uniforms Pigs Aunt Clara-massbackwards-telephones-placebos-uniforms-pigs-aunt-clara.mp3
+Tennis Date with First Love-massbackwards-tennis-date-with-first-love.mp3
+Thanksgiving in the Army-massbackwards-thanksgiving-in-the-army.mp3
+Thanksgiving-massbackwards-thanksgiving.mp3
+The American Primitive-massbackwards-the-american-primitive.mp3
+The Back of the John-massbackwards-the-back-of-the-john.mp3
+The Bear and the Cadillac-massbackwards-the-bear-and-the-cadillac.mp3
+The Clunker of All Time-massbackwards-the-clunker-of-all-time.mp3
+The Detroit Tigers_Chicago White Sox Riot-massbackwards-the-detroit-tigerschicago-white-sox-riot.mp3
+The English Bullfight-massbackwards-the-english-bullfight.mp3
+The Last Mass Backwards-massbackwards-the-last-mass-backwards.mp3
+The Majestic Goose-massbackwards-the-majestic-goose.mp3
+The Old Man's Fireworks Stand-massbackwards-the-old-mans-fireworks-stand.mp3
+The Perfect Christmas Gift-massbackwards-the-perfect-christmas-gift.mp3
+The Shiek of Junior High-massbackwards-the-shiek-of-junior-high.mp3
+The Ugly American-massbackwards-the-ugly-american.mp3
+Tom Snyder-massbackwards-tom-snyder.mp3
+Toy Bedbugs-massbackwards-toy-bedbugs.mp3
+Train Recordings-massbackwards-train-recordings.mp3
+Train Trip on 'City of LA'-massbackwards-train-trip-on-city-of-la.mp3
+Trip to Mid East - Camel and the Coat-massbackwards-trip-to-mid-east-camel-and-the-coat.mp3
+Trip To Sweden-massbackwards-trip-to-sweden.mp3
+Turkeys and Thanksgiving-massbackwards-turkeys-and-thanksgiving.mp3
+TV Set Dies - Allied Catalog-massbackwards-tv-set-dies-allied-catalog.mp3
+Unconscious Humor and WBAI Fund Drive-massbackwards-unconscious-humor-and-wbai-fund-drive.mp3
+Unionism-massbackwards-unionism.mp3
+Watergate-massbackwards-watergate.mp3
+Whoopie Cab - The Loop-massbackwards-whoopie-cab-the-loop.mp3
+Why I Tell Stories-massbackwards-why-i-tell-stories.mp3
+World Affairs - Kids Speak Out on Issues of the Day, Man on Street Doesn't Care-massbackwards-world-affairs-kids-speak-out-on-issues-of-the-day-man-on-street-doesnt-care.mp3
+World's Fair-massbackwards-worlds-fair.mp3
+Worm Ranching-massbackwards-worm-ranching.mp3
+Wormology-massbackwards-wormology.mp3
+Wrapping Christmas Gifts-massbackwards-wrapping-christmas-gifts.mp3
+WWII - Nostalgia Vs. The Way It Was-massbackwards-wwii-nostalgia-vs-the-way-it-was.mp3
